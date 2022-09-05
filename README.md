@@ -1,6 +1,6 @@
 # MyPortfolio
 This is the public repository for my portfolio
-<H1> About Me <H1>
+
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,15 +9,17 @@ This is the public repository for my portfolio
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <body class="w3-black">
-
+<H1> About Me <H1>
 <!-- Page Content -->
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Sanjay Rajpal</h1>
-    <p>Traveller and <a href="#me" class="w3-hover-text-green" title="Click if you dont trust me">AWS Certified Web Designer (Clearly :P).</a></p>
+    <h1 class="w3-jumbo"><span class="w3-hide-small">I'm Sanjay Rajpal</h1>
+    <p>I am a Masters student at Carnegie Mellon University.I am from the MISM - 16 Track.</p>
+    <b><u>My Pronouns:</u></b> He / Him / His
+    
     <img src="Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
-  </header>
+  
    
 
   <!-- Contact Section -->
