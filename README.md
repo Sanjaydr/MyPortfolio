@@ -6,6 +6,25 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <body class="w3-black">
+<!-- Navbar (sticky bottom) -->
+<div class="w3-bottom w3-hide-small">
+  <div class="w3-bar w3-white w3-center w3-padding w3-opacity-min w3-hover-opacity-off">
+    <a href="" style="width:25%" class="w3-bar-item w3-button w3-hover-black"">About Me</a>
+  
+
+  <a href="#us" style="width:25%" class="w3-bar-item w3-button w3-hover-black"">What I Hope To Learn</a>
+  
+
+
+<a href="#wise" style="width:25%" class="w3-bar-item w3-button w3-hover-black"> Resume </a>
+   
+ <a href="#wedding" style="width:25%" class="w3-bar-item w3-button w3-hover-black"">Portfolio </a>
+
+
+
+  </div>
+</div>
+
 <H1> &#128587; About Me &#128587; </H1>
 <!-- Page Content -->
 <div class="w3-padding-large" id="main">
