@@ -16,14 +16,35 @@ This is the public repository for my portfolio
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Sanjay Rajpal</h1>
       <img src="https://sanjaydr.github.io/hello-world/Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
-  
-    <p>Traveller and <a href="#me" class="w3-hover-text-green" title="Click if you dont trust me">AWS Certified Web Designer (Clearly :P).</a></p>
     <img src="Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
   </header>
-    <h6>I am a Masters student at Carnegie Mellon University.I am from the MISM - 16 Track.</h6>
+    <h6>I am a Masters student at Carnegie Mellon University. <br>I am from the MISM - 16 Track.</h6>
     <b><u>My Pronouns:</u></b> He / Him / His
-    
-  
+  <b> <u> Previous Work Experience</u> </b>
+  WORK EXPERIENCE
+Meta Platforms Inc. (Formerly Facebook)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbs Menlo Park, CA
+Security Technical Program Manager Intern &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspMay 2022 – Aug 2022
+• Formulated a Zero-Day Response Program for 3rd Part Open-Source vulnerabilities for Meta FinTech Security Organization
+• Tested the Zero-Day Response Program with a table-top activity identifying and addressing gaps in the program workflow
+• Developed data swarm pipelines using Python incrementally updating asset inventory and tracking library level dependencies
+• Created a dashboard for tracking important metrics for the Software Composition Analysis program using SQL queries in Unidash
+• Collaborated with cross-functional partners globally establishing a platform for Threat Intelligence sharing at the enterprise level
+Ernst and Young Mumbai, India
+Associate Consultant Oct 2020 – May 2021
+• Identified risks and vulnerabilities in business processes by performing vulnerability assessments improving client’s risk posture
+• Executed internal audits based on ISO 27001 standard mitigating design level gaps in client’s business processes
+• Performed project tracking using status reports and dashboards that identified KPI and potential challenges in project schedules
+• Prepared Enterprise Risk Transformation Strategy and implementation plan for a large-scale technology client
+• Reviewed client’s infrastructure and existing risk mitigation controls and recommended improvements to the existing processes
+Analyst Jun 2018 – Sep 2020
+• Evaluated compliance per various security frameworks and regulatory standards such as SOCR, SSAE18, ISO, PCI, and HITRUST
+• Collected project requirements and executed risk advisory engagements for clients with a global presence
+• Formulated policies and procedure documents and streamlined client’s existing IT processes and business operations
+• Performed ISO 27001:2013 Information Security Management System implementation for an AI/ML startup client
+Drone Federation of India Mumbai, India
+Drone Pilot Mar 2020 – Aug 2020
+• Led the Rapid Response Drone team for combating COVID-19 in Mumbai by performing drone surveillance of densely populated areas and public spaces preventing crowding in Mumbai, in collaboration with the Mumbai Police Department
+• Communicated with various police teams and mobilized units that dispersed crowds wherever spotted using drone surveillance solving the problem of community spread of COVID-19
    
 
   <!-- Contact Section -->
