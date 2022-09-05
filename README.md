@@ -40,7 +40,7 @@
     <div id = "res">
       <H1> &#129504; Resume &#129504;</H1>
       <br><br><br>
-      <H1>   <a href ="https://sanjaydr.github.io/hello-world/Sanjay_Rajpal_Resume.pdf"> Click here to view my resume </a> </H1>
+      <H1>   <a href ="https://sanjaydr.github.io/hello-world/Sanjay_Rajpal_Resume.pdf" target="_blank" > Click here to view my resume </a> </H1>
       <br><br><br>
     </div>
 <H1> &#129504; What I hope to Learn &#129504;</H1>
