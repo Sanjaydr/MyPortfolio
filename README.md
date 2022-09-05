@@ -27,7 +27,13 @@
     </h3>
 <H1> &#129504; What I hope to Learn &#129504;</H1>
   I hope to learn how to use the right color schemes and graphs to convey the message I want. I want to be able to communicate the true meening behind the graphical representation clearly and with ease and be able to my creativity to the best. I want to be a successuful leader and I believe that to achieve that goal this course would help me a lot. <br> <br>
-   <img src="https://cdns.tblsft.com/sites/default/files/blog/screen_shot_2020-06-19_at_10.33.54_am.png" alt="boy" class="w3-image" width="60%" height="60%">
+   <img src="https://sanjaydr.github.io/hello-world/1.gif" alt="boy" class="w3-image" width="60%" height="60%">
   
 <br>
-<h1> Portfolio </h1>
+<h1> &#128202; Portfolio &#128201; </h1>
+  <h2><u> Assignments </u></h2> 
+  <h4> <u> Assignment: Data visualization critique #1 <br> 
+    Personal portfolio<br> 
+    Data visualization #1<br> 
+    Crafting for Clarity- week two sketching exercise<br> 
+    Assignment 3&4: Critique by Design<br> 
