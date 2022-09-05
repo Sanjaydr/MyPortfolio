@@ -12,11 +12,12 @@
     <a href="#am" style="width:15%" class="w3-bar-item w3-button w3-hover-black">About Me</a>
   
 
+<a href="#res" style="width:15%" class="w3-bar-item w3-button w3-hover-black"> Resume </a>
+    <br><br><br><br><br><br><br><br><br><br>
   <a href="#wh" style="width:15%" class="w3-bar-item w3-button w3-hover-black">What I Hope To Learn</a>
   
 
 
-<a href="#res" style="width:15%" class="w3-bar-item w3-button w3-hover-black"> Resume </a>
    
  <a href="#Port" style="width:15%" class="w3-bar-item w3-button w3-hover-black">Portfolio </a>
 
@@ -66,5 +67,4 @@
     Personal portfolio<br> 
     Data visualization #1<br> 
     Crafting for Clarity- week two sketching exercise<br> 
-    Assignment 3&4: Critique by Design<br> 
-    </div>
+    Assignment 3&4: Critique by Design<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
