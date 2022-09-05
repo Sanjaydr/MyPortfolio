@@ -11,7 +11,6 @@
   <div class="w3-bar w3-white w3-opacity-min w3-hover-opacity-off">
     <a href="#am" style="width:20%" class="w3-bar-item w3-button w3-hover-black">About Me</a>
 <a href="#res" style="width:20%" class="w3-bar-item w3-button w3-hover-black"> Resume </a>
-    <br><br><br><br><br><br><br><br><br><br>
   <a href="#wh" style="width:20%" class="w3-bar-item w3-button w3-hover-black">What I Hope To Learn</a>   
  <a href="#Port" style="width:20%" class="w3-bar-item w3-button w3-hover-black">Portfolio </a>
   </div>
@@ -40,9 +39,9 @@
   <div id = "wh">
     <div id = "res">
       <H1> &#129504; Resume &#129504;</H1>
-      
+      <br><br><br>
       <H1>   <a href ="https://sanjaydr.github.io/hello-world/Sanjay_Rajpal_Resume.pdf"> Click here to view my resume </a> </H1>
-      
+      <br><br><br>
     </div>
 <H1> &#129504; What I hope to Learn &#129504;</H1>
   I hope to learn how to use the right color schemes and graphs to convey the message I want. I want to be able to communicate the true meening behind the graphical representation clearly and with ease and be able to my creativity to the best. I want to be a successuful leader and I believe that to achieve that goal this course would help me a lot. <br> <br>
