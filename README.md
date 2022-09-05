@@ -19,7 +19,7 @@ This is the public repository for my portfolio
     <img src="Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
   </header>
     <h6>I am a Masters student at Carnegie Mellon University. <br>I am from the MISM - 16 Track.</h6>
-    <b><u>My Pronouns:</u></b> He / Him / His
+  <b><u>My Pronouns:</u></b> He / Him / His </br>
   <b> <u> Previous Work Experience</u> </b>
  <p style="font-size:10px">
 Meta Platforms Inc. (Formerly Facebook)s Menlo Park, CA
