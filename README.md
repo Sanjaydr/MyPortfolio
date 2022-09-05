@@ -8,7 +8,7 @@
 <body class="w3-black">
 <!-- Navbar (sticky bottom) -->
 <div class="w3-bottom w3-hide-small">
-  <div class="w3-bar w3-white w3-center w3-padding w3-opacity-min w3-hover-opacity-off">
+  <div class="w3-bar w3-white w3-left w3-padding w3-opacity-min w3-hover-opacity-off">
     <a href="" style="width:25%" class="w3-bar-item w3-button w3-hover-black">About Me</a>
   
 
@@ -24,7 +24,7 @@
 
   </div>
 </div>
-
+<div id = "am">
 <H1> &#128587; About Me &#128587; </H1>
 <!-- Page Content -->
 <div class="w3-padding-large" id="main">
@@ -44,11 +44,15 @@
       <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: sanjaydr@andrew.cmu.edu </p>
     </div>
     </h3>
+  </div>
+  <div id = "wh">
 <H1> &#129504; What I hope to Learn &#129504;</H1>
   I hope to learn how to use the right color schemes and graphs to convey the message I want. I want to be able to communicate the true meening behind the graphical representation clearly and with ease and be able to my creativity to the best. I want to be a successuful leader and I believe that to achieve that goal this course would help me a lot. <br> <br>
    <img src="https://sanjaydr.github.io/hello-world/1.gif" alt="boy" class="w3-image" width="60%" height="60%">
   <br><br><br>
 <br>
+  </div>
+  <div id ="Port">
 <h1> &#128202; Portfolio &#128201; </h1>
   <h2><u> Assignments </u></h2> 
   <h4> <u> Assignment: Data visualization critique #1 <br> 
@@ -56,3 +60,4 @@
     Data visualization #1<br> 
     Crafting for Clarity- week two sketching exercise<br> 
     Assignment 3&4: Critique by Design<br> 
+    </div>
