@@ -9,10 +9,10 @@
 <!-- Navbar (sticky bottom) -->
 <div class="w3-bottom w3-hide-small">
   <div class="w3-bar w3-white w3-opacity-min w3-hover-opacity-off">
-    <a href="#am" style="width:20%" class="w3-bar-item w3-button w3-hover-black">About Me</a>
-<a href="#res" style="width:20%" class="w3-bar-item w3-button w3-hover-black"> Resume </a>
-  <a href="#wh" style="width:20%" class="w3-bar-item w3-button w3-hover-black">What I Hope To Learn</a>   
- <a href="#Port" style="width:20%" class="w3-bar-item w3-button w3-hover-black">Portfolio </a>
+    <a href="#am" style="width:17%" class="w3-bar-item w3-button w3-hover-black">About Me</a>
+<a href="#res" style="width:17%" class="w3-bar-item w3-button w3-hover-black"> Resume </a>
+  <a href="#wh" style="width:17%" class="w3-bar-item w3-button w3-hover-black">What I Hope To Learn</a>   
+ <a href="#Port" style="width:17%" class="w3-bar-item w3-button w3-hover-black">Portfolio </a>
   </div>
 </div>
 <div id = "am">
