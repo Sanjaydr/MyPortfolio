@@ -26,8 +26,8 @@
     </div>
     </h3>
 <H1> &#129504; What I hope to Learn &#129504;</H1>
-  I hope to learn how to use the right color schemes and graphs to convey the message I want. I want to be able to communicate the true meening behind the graphical representation clearly and with ease and be able to my creativity to the best. I want to be a successuful leader and I believe that to achieve that goal this course would help me a lot.
-   <img src="https://cdns.tblsft.com/sites/default/files/blog/screen_shot_2020-06-19_at_10.33.54_am.png" alt="boy" class="w3-image" width="30%" height="30%">
+  I hope to learn how to use the right color schemes and graphs to convey the message I want. I want to be able to communicate the true meening behind the graphical representation clearly and with ease and be able to my creativity to the best. I want to be a successuful leader and I believe that to achieve that goal this course would help me a lot. <br> <br>
+   <img src="https://cdns.tblsft.com/sites/default/files/blog/screen_shot_2020-06-19_at_10.33.54_am.png" alt="boy" class="w3-image" width="60%" height="60%">
   
 <br>
 <h1> Portfolio </h1>
