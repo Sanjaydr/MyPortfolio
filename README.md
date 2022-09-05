@@ -16,7 +16,7 @@
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Sanjay Rajpal</h1>
       <img src="https://sanjaydr.github.io/hello-world/Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
   </header>
-    <h6>I am a Masters student at Carnegie Mellon University. <br>I am from the MISM - 16 Track.</h6>
+    <h3>I am a Masters student at Carnegie Mellon University. <br>I am from the MISM - 16 Track.
   <b><u>My Pronouns:</u></b> He / Him / His <br>
   <b><u>My Hobbies:</u></b><ul><li>Cooking</li> <li> Travelling</li> <li> Mixology  </li></ul> <br>
   <!-- Contact Section -->
@@ -26,7 +26,7 @@
       <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: +1 421 721 4381</p>
       <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: sanjaydr@andrew.cmu.edu </p>
     </div><br>
-    
+    </h3>
 
  
 
