@@ -8,7 +8,7 @@
 <body class="w3-black">
 <!-- Navbar (sticky bottom) -->
 <div class="w3-bottom w3-hide-small">
-  <div class="w3-bar w3-white w3-left w3-padding w3-opacity-min w3-hover-opacity-off">
+  <div class="w3-bar w3-white w3-left w3-opacity-min w3-hover-opacity-off">
     <a href="#am" style="width:25%" class="w3-bar-item w3-button w3-hover-black">About Me</a>
   
 
