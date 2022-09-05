@@ -38,9 +38,9 @@
   </div>
 
     <div id = "res">
-      <H1> &#129504; Resume &#129504;</H1>
+      <H1> &#128220; Resume &#128220;</H1>
       <br><br><br>
-      <H1>   <a href ="https://sanjaydr.github.io/hello-world/Sanjay_Rajpal_Resume.pdf" target="_blank" > Click here to view my resume </a> </H1>
+      <H1>   <a href ="https://sanjaydr.github.io/hello-world/Sanjay_Rajpal_Resume.pdf" target="_blank" > Click here to view my resume &#128229; </a> </H1>
       <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
     <div id = "wh">
