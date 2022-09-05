@@ -41,7 +41,7 @@
       <H1> &#129504; Resume &#129504;</H1>
       <br><br><br>
       <H1>   <a href ="https://sanjaydr.github.io/hello-world/Sanjay_Rajpal_Resume.pdf" target="_blank" > Click here to view my resume </a> </H1>
-      <br><br><br>
+      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
 <H1> &#129504; What I hope to Learn &#129504;</H1>
   I hope to learn how to use the right color schemes and graphs to convey the message I want. I want to be able to communicate the true meening behind the graphical representation clearly and with ease and be able to my creativity to the best. I want to be a successuful leader and I believe that to achieve that goal this course would help me a lot. <br> <br>
