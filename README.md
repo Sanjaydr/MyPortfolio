@@ -9,18 +9,17 @@ This is the public repository for my portfolio
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <body class="w3-black">
-<H1> About Me <H1>
+<H1> About Me </H1>
 <!-- Page Content -->
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Sanjay Rajpal</h1>
       <img src="https://sanjaydr.github.io/hello-world/Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
-    <img src="Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
   </header>
     <h6>I am a Masters student at Carnegie Mellon University. <br>I am from the MISM - 16 Track.</h6>
-  <b><u>My Pronouns:</u></b> He / Him / His </br>
-  <b><u>My Hobbies:</u></b><ul><li>Cooking</li> <li> Travelling</li> <li> Mixology  </li></ul> </br>
+  <b><u>My Pronouns:</u></b> He / Him / His <br>
+  <b><u>My Hobbies:</u></b><ul><li>Cooking</li> <li> Travelling</li> <li> Mixology  </li></ul> <br>
   <!-- Contact Section -->
   <div class="w3-padding-64 w3-content w3-text-grey" id="me">
     <h2 class="w3-text-light-grey">Contact Me</h2>
