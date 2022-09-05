@@ -16,20 +16,20 @@
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Sanjay Rajpal</h1>
       <img src="https://sanjaydr.github.io/hello-world/Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
   </header>
-    <h3>I am a Masters student at Carnegie Mellon University. <br>I am from the MISM - 16 Track.
+    <h3>I am a Masters student at Carnegie Mellon University. <br>I am from the MISM - 16 Track. <br> 
   <b><u>My Pronouns:</u></b> He / Him / His <br>
-  <b><u>My Hobbies:</u></b><ul><li>Cooking</li> <li> Travelling</li> <li> Mixology  </li></ul> <br>
+  <b><u>My Hobbies:</u></b><ul><li>Cooking</li> <li> Travelling</li> <li> Mixology  </li></ul>
   <!-- Contact Section -->
   <div class="w3-padding-64 w3-content w3-text-grey" id="me">
     <h2 class="w3-text-light-grey">Contact Me</h2>
     <hr style="width:200px" class="w3-opacity">  
       <p><i class="fa fa-phone fa-fw w3-text-white w3-xxlarge w3-margin-right"></i> Phone: +1 421 721 4381</p>
       <p><i class="fa fa-envelope fa-fw w3-text-white w3-xxlarge w3-margin-right"> </i> Email: sanjaydr@andrew.cmu.edu </p>
-    </div><br>
+    </div>
     </h3>
-
- 
-
-<H1> What I hope to Learn </H1>
+<H1> &#129504; What I hope to Learn &#129504;</H1>
+  I hope to learn how to use the right color schemes and graphs to convey the message I want. I want to be able to communicate the true meening behind the graphical representation clearly and with ease and be able to my creativity to the best. I want to be a successuful leader and I believe that to achieve that goal this course would help me a lot.
+   <img src="[https://sanjaydr.github.io/hello-world/Sanjay.jpg](https://cdns.tblsft.com/sites/default/files/blog/screen_shot_2020-06-19_at_10.33.54_am.png)" alt="boy" class="w3-image" width="30%" height="30%">
+  
 <br>
 <h1> Portfolio </h1>
