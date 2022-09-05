@@ -21,9 +21,9 @@ This is the public repository for my portfolio
     <h6>I am a Masters student at Carnegie Mellon University. <br>I am from the MISM - 16 Track.</h6>
     <b><u>My Pronouns:</u></b> He / Him / His
   <b> <u> Previous Work Experience</u> </b>
-  WORK EXPERIENCE
-Meta Platforms Inc. (Formerly Facebook)&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbs Menlo Park, CA
-Security Technical Program Manager Intern &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspMay 2022 – Aug 2022
+ <p style="font-size:10px">
+Meta Platforms Inc. (Formerly Facebook)s Menlo Park, CA
+Security Technical Program Manager Intern May 2022 – Aug 2022
 • Formulated a Zero-Day Response Program for 3rd Part Open-Source vulnerabilities for Meta FinTech Security Organization
 • Tested the Zero-Day Response Program with a table-top activity identifying and addressing gaps in the program workflow
 • Developed data swarm pipelines using Python incrementally updating asset inventory and tracking library level dependencies
@@ -45,7 +45,7 @@ Drone Federation of India Mumbai, India
 Drone Pilot Mar 2020 – Aug 2020
 • Led the Rapid Response Drone team for combating COVID-19 in Mumbai by performing drone surveillance of densely populated areas and public spaces preventing crowding in Mumbai, in collaboration with the Mumbai Police Department
 • Communicated with various police teams and mobilized units that dispersed crowds wherever spotted using drone surveillance solving the problem of community spread of COVID-19
-   
+  </p> 
 
   <!-- Contact Section -->
   <div class="w3-padding-64 w3-content w3-text-grey" id="me">
