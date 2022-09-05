@@ -15,7 +15,7 @@ This is the public repository for my portfolio
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Sanjay Rajpal</h1>
-      <img src="https://drive.google.com/drive/u/1/folders/1OH79yVoxNuBu_TQdjZqU7mWfIhmwn9Nf" alt="boy" class="w3-image" width="30%" height="30%">
+      <img src="https://sanjaydr.github.io/hello-world/Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
   
     <p>Traveller and <a href="#me" class="w3-hover-text-green" title="Click if you dont trust me">AWS Certified Web Designer (Clearly :P).</a></p>
     <img src="Sanjay.jpg" alt="boy" class="w3-image" width="30%" height="30%">
