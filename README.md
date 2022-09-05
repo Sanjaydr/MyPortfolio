@@ -18,7 +18,7 @@
 
 <a href="#wise" style="width:25%" class="w3-bar-item w3-button w3-hover-black"> Resume </a>
    
- <a href="#wedding" style="width:25%" class="w3-bar-item w3-button w3-hover-black"">Portfolio </a>
+ <a href="#wedding" style="width:25%" class="w3-bar-item w3-button w3-hover-black">Portfolio </a>
 
 
 
