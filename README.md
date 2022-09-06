@@ -53,7 +53,10 @@
   <div id ="Port">
 <h1> &#128202; Portfolio &#128201; </h1>
   <h2><u> Assignments </u></h2> 
-  <h4> <u> Assignment: Data visualization critique #1 <br> 
+  <h4>
+  Classwork: Week 2 <div class="flourish-embed flourish-chart" data-src="visualisation/11109423"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ 
+   Assignment: Data visualization critique #1 <br> 
     Personal portfolio<br> 
     Data visualization #1<br> 
     Crafting for Clarity- week two sketching exercise<br> 
