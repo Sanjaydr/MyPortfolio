@@ -29,8 +29,7 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/11134258"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
-  <h1 class="w3-jumbo">Debt to GDP ratio</h1>
-  <H3> Comparative analysis for Countries in American Continents between 2015and 2018 <H3>
+  <h1 class="w3-jumbo">Vizualization 3</h1>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11134349"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
   <H1> Brief about the vizualization </h1>
