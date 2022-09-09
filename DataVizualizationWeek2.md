@@ -17,8 +17,16 @@
  
   </header>
    
+  
+    <h1 class="w3-jumbo"><span class="w3-hide-small">Orignal Graphic from OECD Website </span></h1>
+<iframe src="https://data.oecd.org/chart/6O8V" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6O8V" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
- 
+  
+  
+  
+  
+    <h1 class="w3-jumbo"><span class="w3-hide-small">Part Viizualization from Flourish</span></h1>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11134258"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
 
  
