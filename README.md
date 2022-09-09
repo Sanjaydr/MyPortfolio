@@ -54,12 +54,11 @@
 <h1> &#128202; Portfolio &#128201; </h1>
   <h2><u> Assignments </u></h2> 
   <h4>
- <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/Week2ClassWork" >  Classwork: Week 2 </a> </H1>
+ <H1>   <a href ="https://sanjaydr.github.io/hello-world/Assignment1.xlsx" target ="_blank" >  Data visualization critique #1 </a> </H1>
  
-   Assignment: Data visualization critique #1 <br> 
-    Personal portfolio<br> 
+    <br>  
     
-   <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/DataVizualizationWeek2" > Click here to view Assignment 2 </a> </H1>
+   <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/DataVizualizationWeek2" > Visualizing government debt </a> </H1>
     <br>  
     Crafting for Clarity- week two sketching exercise<br> 
     Assignment 3&4: Critique by Design<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
