@@ -54,7 +54,7 @@
 <h1> &#128202; Portfolio &#128201; </h1>
   <h2><u> Assignments </u></h2> 
   <h4>
-  Classwork: Week 2 <div class="flourish-embed flourish-chart" data-src="visualisation/11109423"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+ <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/Week2ClassWork" >  Classwork: Week 2 </a> </H1>
  
    Assignment: Data visualization critique #1 <br> 
     Personal portfolio<br> 
