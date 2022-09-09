@@ -29,9 +29,12 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/11134258"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
-  <h1 class="w3-jumbo"><span class="w3-hide-small">Comparative analysis of GDP for countries in Americas</span></h1>
+  <h1 class="w3-jumbo">Debt to GDP ratio</h1>
+  <H3> Comparative analysis for Countries in American Continents between 2015and 2018 <H3>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11134349"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+  <H1> Brief about the vizualization </h1>
+  I decided to use the 
 <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Click here to <b> GO BACK </b> to home page </a> </H1>
 <!-- END PAGE CONTENT -->
 </div>
