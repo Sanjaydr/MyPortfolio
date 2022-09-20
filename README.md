@@ -60,5 +60,5 @@
     
    <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/DataVizualizationWeek2" > Visualizing government debt </a> </H1>
     <br>  
-    Crafting for Clarity- week two sketching exercise<br> 
-    Assignment 3&4: Critique by Design<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+    <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/Assignment3&4" > Visualizing government debt </a> </H1>
+    <br>  
