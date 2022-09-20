@@ -19,7 +19,7 @@
    
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 1: Finding a data visualization to use </span></h1>
-  
+  <iframe src="https://data.oecd.org/chart/6OR2" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6OR2" target="_blank">OECD Chart: Working age population, Total, % of population, 1970 – 2021</a></iframe>
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 2: Critiqueing the data visualization </span></h1>
@@ -27,7 +27,7 @@
 
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 3: Sketching out the solution </span></h1>
-
+ <img src="https://sanjaydr.github.io/hello-world/3Crit.jpeg" alt="Sketch" class="w3-image" width="50%" height="50%">
 
 
 
@@ -37,7 +37,12 @@
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Part 4A: Feednack through Interviews </span></h2>
   
+  <h2 class="w3-jumbo"> <a href ="https://sanjaydr.github.io/hello-world/Interview 1.html" > <span class="w3-hide-small"> Interview 1 </span></a></h2>
   
+  <h2 class="w3-jumbo"><a href ="https://sanjaydr.github.io/hello-world/Interview 2.html" > <span class="w3-hide-small"> Interview 2 </span></a></h2>
+  
+  
+ 
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Updated Sketch after interviews and feedback </span></h1>
   
