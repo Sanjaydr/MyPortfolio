@@ -27,7 +27,7 @@
 
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 3: Sketching out the solution </span></h1>
- <img src="https://sanjaydr.github.io/hello-world/3Crit.jpeg" alt="Sketch" class="w3-image" width="50%" height="50%">
+ <img src="https://sanjaydr.github.io/hello-world/3Crit.jpeg" alt="Sketch" class="w3-image" width="100%" height="100%">
 
 
 
