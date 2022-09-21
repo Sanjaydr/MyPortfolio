@@ -23,7 +23,7 @@
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 2: Critiqueing the data visualization </span></h1>
-
+<h2 class="w3-jumbo"> <a href ="https://sanjaydr.github.io/hello-world/Survey.pdf" > <span class="w3-hide-small"> Click here to view Critique Survey data</span></a></h2>
 
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 3: Sketching out the solution </span></h1>
@@ -42,19 +42,15 @@
   <h2 class="w3-jumbo"><a href ="https://sanjaydr.github.io/hello-world/Interview 2.html" > <span class="w3-hide-small"> Interview 2 </span></a></h2>
   
   
- 
-  
-  <h1 class="w3-jumbo"><span class="w3-hide-small">Updated Sketch after interviews and feedback </span></h1>
-  
   
   
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Part 4B: Feedback from peers in class </span></h2>
-
+<p> I feel that this additional step of getting feedback from peers in class in the form of group activity was a great step in the process. It not only helped me get great feedback from my peers who are learning and applying the same concepts we learn in class but also get ideas on differet ways to represent my narrative in the journal form. Along with the activity I feel that the four questions that were handed to us heped us structure our feedback and hence I received some really great feedback that I incorporated in my visualization
 
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 5: Building out the tested solution </span></h1>
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/11239574"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
    <br>
    <br>
