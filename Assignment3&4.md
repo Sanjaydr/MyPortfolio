@@ -57,7 +57,7 @@ To make my sketch more appealing I used different colors for each county. I labe
 
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 5: Building out the tested solution </span></h1>
- <h2> The Masive Rise of <font color="MediumSeaGreen"> Indian </font>and<font color="Orange"> Korean </font>population in working age  </h2>
+  <h2> The Masive Rise of <font color="MediumSeaGreen"><b> Indian </b> </font>and<font color="Orange"><b> Korean </b></font>population in working age  </h2>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11239574"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
    <br>
