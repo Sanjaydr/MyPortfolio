@@ -56,7 +56,8 @@ To make my sketch more appealing I used different colors for each county. I labe
   3. I built the final solution as an area graph based on interview feedback. But my peer group suggested I keep the visual as a line graph since the area graph did not capture the exponential growth well and the colors were causing distraction and eye travel. </p>
 
 
-  <h1 class="w3-jumbo"><span class="w3-hide-small">Part 5: Building out the tested solution </span></h1>
+  <h1 class="w3-jumbo"><span class="w3-hide-small">Part 5: Building out the tested solution </span></h1> <p>
+   I built out the final solution using Flourish and incorporated the feedback from the interviews as well as from the peer review session in class. I feel that this activity helped me understand the entire process from selecting a visual to creating a final solution that I clear and conveys the right information., I feel pretty confident that I can now pick any visualization and critique and/or redesign it for easier interpretation for a wide variety of audiences. </p> <br><br>
   <h2> The Masive Rise of <font color="MediumSeaGreen"><b> Indian </b> </font>and<font color="Orange"><b> Korean </b></font>population in working age  </h2>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11239574"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
