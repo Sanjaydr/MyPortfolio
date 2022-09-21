@@ -24,7 +24,7 @@
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 2: Critiqueing the data visualization </span></h1>
-<h4 class="w3-jumbo"> <a href ="https://sanjaydr.github.io/hello-world/Survey.pdf" > <span class="w3-hide-small"> Click here to view Critique Survey data</span></a></h4>
+<h3 class="w3-jumbo"> <a href ="https://sanjaydr.github.io/hello-world/Survey.pdf" > <span class="w3-hide-small"> Click here to view Critique Survey data</span></a></h3>
 
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 3: Sketching out the solution </span></h1>
@@ -50,7 +50,10 @@ To make my sketch more appealing I used different colors for each county. I labe
   
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Part 4B: Feedback from peers in class </span></h2>
-<p> I feel that this additional step of getting feedback from peers in class in the form of group activity was a great step in the process. It not only helped me get great feedback from my peers who are learning and applying the same concepts we learn in class but also get ideas on differet ways to represent my narrative in the journal form. Along with the activity I feel that the four questions that were handed to us heped us structure our feedback and hence I received some really great feedback that I incorporated in my visualization
+<p> I feel that this additional step of getting feedback from peers in class in the form of group activity was a great step in the process. It not only helped me get great feedback from my peers who are learning and applying the same concepts we learn in class but also get ideas on different ways to represent my narrative in the journal form. Along with the activity, I feel that the four questions that were handed to us helped us structure our feedback, and hence I received some great feedback that I incorporated into my visualization. I received the following feedback that I incorporated into the final solution that I built on flourish - <br>
+  1. The title should be more catchy so I decided to use " The massive rise Indian and Korean population in working age".<br>
+  2. The title should highlight India and Korea in the same color as the lines in the graph (I could not achieve this in flourish hence I added the title on Github and highlighted the text there) I found this very effective in drawing attention to what I want to showcase. <br>
+  3. I built the final solution as an area graph based on interview feedback. But my peer group suggested I keep the visual as a line graph since the area graph did not capture the exponential growth well and the colors were causing distraction and eye travel. </p>
 
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 5: Building out the tested solution </span></h1>
