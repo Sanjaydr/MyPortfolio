@@ -37,9 +37,9 @@ To make my sketch more appealing I used different colors for each county. I labe
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 4: Testing the sketched solution </span></h1>
   
+  <p> I tested the sketched solution by conducting 2 interviews. I have added link to the interviews below. The interviews helped me with feedback and improved the overall visualization.
   
-  
-  <h2 class="w3-jumbo"><span class="w3-hide-small">Part 4A: Feednack through Interviews </span></h2>
+  <h2 class="w3-jumbo"><span class="w3-hide-small">Part 4A: Feedback through Interviews </span></h2>
   
   <h2 class="w3-jumbo"> <a href ="https://sanjaydr.github.io/hello-world/Interview 1.html" > <span class="w3-hide-small"> Interview 1 </span></a></h2>
   
