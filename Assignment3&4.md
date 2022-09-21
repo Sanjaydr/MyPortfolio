@@ -24,10 +24,13 @@
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 2: Critiqueing the data visualization </span></h1>
-<h2 class="w3-jumbo"> <a href ="https://sanjaydr.github.io/hello-world/Survey.pdf" > <span class="w3-hide-small"> Click here to view Critique Survey data</span></a></h2>
+<h4 class="w3-jumbo"> <a href ="https://sanjaydr.github.io/hello-world/Survey.pdf" > <span class="w3-hide-small"> Click here to view Critique Survey data</span></a></h4>
 
 
   <h1 class="w3-jumbo"><span class="w3-hide-small">Part 3: Sketching out the solution </span></h1>
+ <p>   The next step after critiquing the visualization was to sketch out what I felt was the best way to represent the data and to set the context that I felt was appropriate for the visualization. To accomplish this I selected five countries. India, Japan, Korea, the UK, and the USA. The idea was to compare the growth in the working population in developed countries to developing countries. The reason behind choosing these countries was that in developing countries the growth over the years in the percentage of the population of working age was very high as compared to USA and UK which was pretty much parallel. I wanted to highlight the exponential growth of India and Korea over the years. <br>
+To make my sketch more appealing I used different colors for each county. I labeled them using the same color as the line for each country. I also added Labels for the axes to make it more clear and eliminated redundant information making the required information highlighted clearly.
+  </p>
  <img src="https://sanjaydr.github.io/hello-world/3Crit.jpeg" alt="Sketch" class="w3-image" width="100%" height="100%">
 
 
