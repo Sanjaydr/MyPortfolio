@@ -12,14 +12,32 @@
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small">Assignment 3 & 4</span></h1>
+    <h1 class="w3-jumbo"><span class="w3-hide-small">Final Project Part 1</span></h1>
  
   </header>
    
   
-  <h1 class="w3-jumbo"><span class="w3-hide-small">Final Project Part 1 </span></h1>
-  <p> Initially, when this assignment was released, I had a hundred ideas floating in my head for the different visuals that I had seen in the past and what I could potentially use for my assignment. But, when I started working on the assignment I realized that the biggest issue I faced was that the different visuals that caught my attention either did not have the data used to create the embedded visual or the data set was so massive that flourish and tableau were getting stuck due to limited compute capacity of my system. Then I decided to look through the OECD data visualizations and came across this very interesting graph. The title "Working age population, Total, % of the population, 1970 – 2021" caught my attention but the visual was badly made. So I decided to work on that visual as my visual for the assignment. </p>
+  <h1 class="w3-jumbo"><span class="w3-hide-small">Outline</span></h1>
+  <p>  </p>
+  
+  
+  
 
- 
+ <h1 class="w3-jumbo"><span class="w3-hide-small">Initial Sketches</span></h1>
+  <p>  </p>
+  
+  
+  
+  
+  <h1 class="w3-jumbo"><span class="w3-hide-small">The Data</span></h1>
+  <p>  </p>
+  
+  
+  
+  <h1 class="w3-jumbo"><span class="w3-hide-small">Method and Medium</span></h1>
+  <p>  </p>
+  
+  
+  
 <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Click here to <b> GO BACK </b> to home page </a> </H1>
 <!-- END PAGE CONTENT -->
