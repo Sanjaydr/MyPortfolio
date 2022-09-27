@@ -39,21 +39,21 @@
    <img src="https://sanjaydr.github.io/hello-world/2.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
    <p><h2>Sketch 3:</h2></p><br>
    <img src="https://sanjaydr.github.io/hello-world/3.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-   <p><h2>Sketch 4:</h2></p><br>
-   <img src="https://sanjaydr.github.io/hello-world/4.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-   <p><h2>Sketch 5:</h2></p><br>
-   <img src="https://sanjaydr.github.io/hello-world/5.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-   <p><h2>Sketch 6:</h2></p><br>
-   <img src="https://sanjaydr.github.io/hello-world/6.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-   <p><h2>Sketch 7:</h2></p><br>
-   <img src="https://sanjaydr.github.io/hello-world/7.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-   <p><h2>Sketch 8:</h2></p><br>
-   <img src="https://sanjaydr.github.io/hello-world/8.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-   <p><h2>Sketch 9:</h2></p><br>
-   <img src="https://sanjaydr.github.io/hello-world/9.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-   <p><h2>Sketch 10:</h2></p><br>
-   <img src="https://sanjaydr.github.io/hello-world/10.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
   
+   <p><h2>Sketch 4:</h2></p><br>
+   <img src="https://sanjaydr.github.io/hello-world/5.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <p><h2>Sketch 5:</h2></p><br>
+   <img src="https://sanjaydr.github.io/hello-world/6.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <p><h2>Sketch 6:</h2></p><br>
+   <img src="https://sanjaydr.github.io/hello-world/7.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <p><h2>Sketch 7:</h2></p><br>
+   <img src="https://sanjaydr.github.io/hello-world/8.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <p><h2>Sketch 8:</h2></p><br>
+   <img src="https://sanjaydr.github.io/hello-world/9.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <p><h2>Sketch 9:</h2></p><br>
+   <img src="https://sanjaydr.github.io/hello-world/10.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <p><h2>Sketch 10:</h2></p><br>
+   <img src="https://sanjaydr.github.io/hello-world/4.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">The Data</span></h1>
