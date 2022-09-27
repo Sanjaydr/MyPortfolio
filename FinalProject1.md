@@ -43,14 +43,16 @@
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">The Data</span></h1>
-  <a href ="https://sanjaydr.github.io/MyPortfolio/" > Timely MD Data </a>
-  <a href ="https://sanjaydr.github.io/MyPortfolio/" > Link to the Executive Summary of  American College Health Association (ACHA) survery </a>
-   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Link to the results of  American College Health Association (ACHA) survery </a>
-  <a href ="https://afsp.org/suicide-statistics/" > Link to the suicide statistics for all age groups  </a>
-  <a href ="https://www.statista.com/statistics/1126279/percentage-of-college-students-with-depression-us/" > Link to the college student depression statistics</a>
+<h3>  <a href ="https://timely.md/college-students-more-concerned-about-covid-19-than-ever/" > Timely MD Data </a> <br><br>
+  <a href ="https://www.acha.org/documents/ncha/NCHA-III_SPRING_2022_GRAD_PROFESSIONAL_REFERENCE_GROUP_EXECUTIVE_SUMMARY.pdf" > Link to the Executive Summary of  American College Health Association (ACHA) survery </a><br><br>
+   <a href =" https://www.acha.org/documents/ncha/NCHA-III_SPRING_2022_GRAD_PROFESSIONAL_REFERENCE_GROUP_DATA_REPORT.pdf" > Link to the results of  American College Health Association (ACHA) survery </a><br><br>
   
-  <a href ="https://nida.nih.gov/research-topics/trends-statistics/infographics/drug-alcohol-use-in-college-age-adults-in-2018" > Data about Marijuana., Nicotine vape, Alcohol and hallucinogen use by college students by NIDA </a>
+  <a href ="https://afsp.org/suicide-statistics/" > Link to the suicide statistics for all age groups  </a><br><br>
   
+  <a href ="https://www.statista.com/statistics/1126279/percentage-of-college-students-with-depression-us/" > Link to the college student depression statistics</a><br><br>
+  
+  <a href ="https://nida.nih.gov/research-topics/trends-statistics/infographics/drug-alcohol-use-in-college-age-adults-in-2018" > Data about Marijuana, Nicotine vape, Alcohol and hallucinogen use by college students by National Institue on Drug Abuse </a><br><br>
+  </h3>
   <h1 class="w3-jumbo"><span class="w3-hide-small">Method and Medium</span></h1>
   <p>  </p>
   
