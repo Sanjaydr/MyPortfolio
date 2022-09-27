@@ -33,27 +33,27 @@
   <p> I have created 10 sketches to show the broad flow of my storyboard</p>
   
   
-  <p>Sketch 1: This sketch is the starting point and draws attention by using large font size and vibrant colors to talk about the GROWTH in ANXIETY rates.</p></br>
+  <p><h2>Sketch 1:</h2> This sketch is the starting point and draws attention by using large font size and vibrant colors to talk about the GROWTH in ANXIETY rates.</p></br>
    <img src="https://sanjaydr.github.io/hello-world/1.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 2:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/2.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 3:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/3.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 4:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/4.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 5:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/5.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 6:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/6.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 7:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/7.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 8:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/8.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 9:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/9.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 1:</p></br>
+   <p><h2>Sketch 10:</h2></p></br>
    <img src="https://sanjaydr.github.io/hello-world/10.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
-   <p>Sketch 10: </p></br>
+  
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">The Data</span></h1>
