@@ -55,8 +55,13 @@
    <p><h2>Sketch 10:</h2> The last sketch is for the suicide statistics. this simple trend line would be used to show the suicide rates. I would use a rope with a noose at the end to make the graph more impactful.</p><br>
    <img src="https://sanjaydr.github.io/hello-world/4.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
   
-  After the sketches I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check.
+  After the sketches I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. <br><br><br>
+  
+  
   <h1 class="w3-jumbo"><span class="w3-hide-small">The Data</span></h1>
+  <p> I have used the data from various articles and antional surveys. I have used the data from the Survey done by American College Health Association, National Institue on Drug Abuse website, statista, timely-md website and American Foundation fro Suicide Prevention. these data sources provided me with the required data to be able to create an impactful story and highlight something that is hidden in plain sight. The dire situation requires our attention and the data point will make an impact not only by making aware but also using these national assiociations as a method to help people fighting these issues and help them with resources and make them better equipped tocombat mental health issues. <br>
+I have used the most recent data available to make the statistics and vizualization more relevant to the audience. I have also spent a lot of time hand picking the data that could be represented in the most impactful flow of events.</p>
+  <h2> Link to the data </h2>
 <h3>  <a href ="https://timely.md/college-students-more-concerned-about-covid-19-than-ever/" > Timely MD Data </a> <br><br>
   <a href ="https://www.acha.org/documents/ncha/NCHA-III_SPRING_2022_GRAD_PROFESSIONAL_REFERENCE_GROUP_EXECUTIVE_SUMMARY.pdf" > Link to the Executive Summary of  American College Health Association (ACHA) survery </a><br><br>
    <a href =" https://www.acha.org/documents/ncha/NCHA-III_SPRING_2022_GRAD_PROFESSIONAL_REFERENCE_GROUP_DATA_REPORT.pdf" > Link to the results of  American College Health Association (ACHA) survery </a><br><br>
