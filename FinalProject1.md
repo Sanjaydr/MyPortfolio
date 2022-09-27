@@ -29,17 +29,31 @@
   I would start with the statistics about stress in College students. I would then redirect to the Levels of stress as moderate, severe, and low. Then I would move to the effects of Mental health issues like Anxiety and Depression and show statistics that frankly shocked me. I would then move on to the statistics about college students taking up alcohol, nicotine vapes, and hallucinogens to cope with mental health issues. This would lay the foundation for the fact that people do commit suicide after they cannot cope with the mental stress, depression, and/or anxiety. I would do that by showing statistics of college student suicides and finally in the call for action section make a few resources available and also talk about simple steps and mindfulness practices that can help cope with stress and other mental health issues.</p>
 
  <h1 class="w3-jumbo"><span class="w3-hide-small">Initial Sketches</span></h1>
-   <img src="https://sanjaydr.github.io/hello-world/1.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/2.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/3.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/4.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/5.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/6.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/7.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/8.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/9.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
-   <img src="https://sanjaydr.github.io/hello-world/10.jpeg" alt="boy" class="w3-image" width="100%" height="100%">
   
+  <p> I have created 10 sketches to show the broad flow of my storyboard</p>
+  
+  
+  <p>Sketch 1: This sketch is the starting point and draws attention by using large font size and vibrant colors to talk about the GROWTH in ANXIETY rates.</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/1.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/2.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/3.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/4.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/5.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/6.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/7.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/8.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/9.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 1:</p></br>
+   <img src="https://sanjaydr.github.io/hello-world/10.jpeg" alt="boy" class="w3-image" width="100%" height="100%"></br></br>
+   <p>Sketch 10: </p></br>
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">The Data</span></h1>
