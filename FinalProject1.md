@@ -18,7 +18,7 @@
    
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Outline</span></h1>
-  <p> For my final project I had an idea to pick something that was close to me and something that everyone in the room could relate with. hence I picked the topic on Mental Health crisis faced by College Students in United States of AMerica. As a college student, I have faced a lot of Stress and Mental Health issues personally due to the immense pressure of the coursework and facing deadlines and the job search as well. </p>
+  <p> For my final project I had an idea to pick something that was close to me and something that everyone in the room could relate with. hence I picked the topic on Mental Health crisis faced by College Students in United States of America. As a college student, I have faced a lot of Stress and Mental Health issues personally due to the immense pressure of the coursework and facing deadlines and the job search as well. </p>
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Summary</span></h2>
   <p> I feel that the topic of Mental health has gained a lot of traction recently but people fail to understand the importance of mental health in a student's life. At the same time, it's necessary to showcase the appalling statistics of the dire situation. The reason I picked this topic is to convey the on-ground numbers and raise awareness of the simple ways we as students can take care of ourselves and avoid becoming a part of the statistics. Using my storyboard I would like to make my fellow college students aware of the simple actions that can help someone in need.</p>
