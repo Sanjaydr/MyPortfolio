@@ -43,9 +43,13 @@
   
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">The Data</span></h1>
-  <p>  </p>
+  <a href ="https://sanjaydr.github.io/MyPortfolio/" > Timely MD Data </a>
+  <a href ="https://sanjaydr.github.io/MyPortfolio/" > Link to the Executive Summary of  American College Health Association (ACHA) survery </a>
+   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Link to the results of  American College Health Association (ACHA) survery </a>
+  <a href ="https://afsp.org/suicide-statistics/" > Link to the suicide statistics for all age groups  </a>
+  <a href ="https://www.statista.com/statistics/1126279/percentage-of-college-students-with-depression-us/" > Link to the college student depression statistics</a>
   
-  
+  <a href ="https://nida.nih.gov/research-topics/trends-statistics/infographics/drug-alcohol-use-in-college-age-adults-in-2018" > Data about Marijuana., Nicotine vape, Alcohol and hallucinogen use by college students by NIDA </a>
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Method and Medium</span></h1>
   <p>  </p>
