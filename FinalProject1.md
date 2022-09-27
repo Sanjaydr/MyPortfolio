@@ -76,7 +76,21 @@ I have used the most recent data available to make the statistics and vizualizat
   I would be using Shorthand as the Medium. I really liked the way that shorthand made the storybord flow very smooth. I also really like the animations possible since they added teh added impact for the audience. As I saw teh different samples I realized that by using various royalty free and copyright free sources such as "Pexels and Unsplash" I could add background images that would showcase the flow evern better. I feel that I could leverage tools like "Canva" to create my own vizualizations for Sketches 12, 5, 7, 9 and 10 to create customized vizualizations by combining various elements for added emphasis. <br>
 I will also consider creating a shorted version on shorthand for the 1 minute presentation to ensure that the context and flow is not lost as I present my story in a short time of 1 minute. I would take up the different statistics and combine them to get that flow. The Methodology to be used is simple, I would just try to have everything on one platform (Shorthand) at the end after creating vizualizations on flourish, Tableau, Canva and add images from the websites mentioned to bring it all together. This would help me have a lasting impact on my audience and show the tough reality and provide resource to those in need.
   
-  
+ <br><br>
+  <h1 class="w3-jumbo"><span class="w3-hide-small">Feedback from peers in class</span></h1>
+  The feedback session in class was really helpful in understanding the small issues that I had overlooked and can change while implementing the final solution. The following points were provided as feedback on my sketches and flow - <br>
+  <h2> Pros </h2><br>
+  <ul><li>The flow looks good and helps with the narrative </li>
+  <li>The Infographics are great </li>
+  </ul>
+  <h2> Areas of Improvement </h2>
+  <ul>
+  <li>Be careful for the graphics especially fro sensitive situations/topics like suicide </li>
+  <li>For the infographics, use size to show change over time instead of plotting on graph</li>
+  <li>Use more colors not just red and green to account for the colorblind</li>
+  <li>Start with a Question as a Hook to the audience</li>
+  </ul>
+  <br><br>
   
 <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Click here to <b> GO BACK </b> to home page </a> </H1>
 <!-- END PAGE CONTENT -->
