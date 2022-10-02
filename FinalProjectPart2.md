@@ -25,12 +25,12 @@
  <br>
   I would start with the statistics about stress in College students. I would then redirect to the Levels of stress as moderate, severe, and low. Then I would move to the effects of Mental health issues like Anxiety and Depression and show statistics that frankly shocked me. I would then move on to the statistics about college students taking up alcohol, nicotine vapes, and hallucinogens to cope with mental health issues. This would lay the foundation for the fact that people do commit suicide after they cannot cope with the mental stress, depression, and/or anxiety. I would do that by showing statistics of college student suicides and finally in the call for action section make a few resources available and also talk about simple steps and mindfulness practices that can help cope with stress and other mental health issues.</p>
 
- <h1 class="w3-jumbo"><span class="w3-hide-small">Initial Sketches</span></h1>
+ <h1 class="w3-jumbo"><span class="w3-hide-small"> Final Visualizations</span></h1>
   
-  <p> I have created 10 visualizations based off the sketches from<a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > Final Project Part 1 </a> to show the broad flow of my storyboard</p>
+  <p> I have created 10 visualizations based off the sketches from<b><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > <i>Final Project Part 1 </i></a></b> to show the broad flow of my storyboard</p>
   
   
-  <p><h2>Sketch 1:</h2> This sketch is the starting point and draws attention by using large font size and vibrant colors to talk about the GROWTH in ANXIETY rates.</p><br>
+  <p><h2>Visual 1:</h2> This sketch is the starting point and draws attention by using large font size and vibrant colors to talk about the GROWTH in ANXIETY rates.</p><br>
 <div style="position: relative; width: 100%; height: 0; padding-top: 16.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -41,7 +41,7 @@
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2Tg4eJY&#x2F;watch?utm_content=DAFN2Tg4eJY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Anxiety</a> by sanjay rajpal
   
   
-  <p><h2>Sketch 2:</h2> The second sketch uses the human figures to show that 65.7 percent or 6.57 out of 10 students face harmful levels of anxiety and I have used red color to draw attention to the statistic.</p><br>
+  <p><h2>Visual 2:</h2> The second sketch uses the human figures to show that 65.7 percent or 6.57 out of 10 students face harmful levels of anxiety and I have used red color to draw attention to the statistic.</p><br>
    <div style="position: relative; width: 100%; height: 0; padding-top: 40.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -57,13 +57,13 @@
    
    
    
-   <p><h2>Sketch 3:</h2> The next sketch adds on to the metal health by introducing Covid-19 as a factor adding to the stress and shows the impact of Covid -19 on stress levels.</p><br>
+   <p><h2>Visual 3:</h2> The next sketch adds on to the metal health by introducing Covid-19 as a factor adding to the stress and shows the impact of Covid -19 on stress levels.</p><br>
   <div class="flourish-embed flourish-chart" data-src="visualisation/11344247"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
   <br><br>
   
-   <p><h2>Sketch 4:</h2> In this sketch I elaborate even further on the Mental stress level and show the levels as Low, Moderate and Severe in the form of a donut chart. I have used gradation Fron red to green to indicate the levels.</p><br>
+   <p><h2>Visual 4:</h2> In this sketch I elaborate even further on the Mental stress level and show the levels as Low, Moderate and Severe in the form of a donut chart. I have used gradation Fron red to green to indicate the levels.</p><br>
   
   <div class="flourish-embed flourish-chart" data-src="visualisation/11344360"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
@@ -71,7 +71,7 @@
    
    
    
-   <p><h2>Sketch 5:</h2> This is a rough sketch for what would be a direct comparison between the time students spend on study outside of classes versus the time spent on entertainment every week in a typical work week. I have used red for Study time to show strss and green to show relaxation or break through entertainment.</p><br>
+   <p><h2>Visual 5:</h2> This is a rough sketch for what would be a direct comparison between the time students spend on study outside of classes versus the time spent on entertainment every week in a typical work week. I have used red for Study time to show strss and green to show relaxation or break through entertainment.</p><br>
    
    <div class="flourish-embed flourish-chart" data-src="visualisation/11345449"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
    
@@ -79,7 +79,7 @@
    
    
    
-   <p><h2>Sketch 6:</h2> From this sketch I want to convey the depression statistics and I have used the big number in the middle to capture attention of the audience with the alarming number. I would use thsi to move into the adverse coping methods that college students turn to.</p><br>
+   <p><h2>Visual 6:</h2> From this sketch I want to convey the depression statistics and I have used the big number in the middle to capture attention of the audience with the alarming number. I would use thsi to move into the adverse coping methods that college students turn to.</p><br>
    
 <div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -94,7 +94,7 @@
    <br><br>
    
    
-   <p><h2>Sketch 7:</h2>This sketch represents the coparsion of students consuming marijuana. i have used the leaf symbol to represent the percentage since that makes the data self explanatory. </p><br>
+   <p><h2>Visual 7:</h2>This sketch represents the coparsion of students consuming marijuana. i have used the leaf symbol to represent the percentage since that makes the data self explanatory. </p><br>
  <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -106,7 +106,7 @@
    <br><br>
    
    
-   <p><h2>Sketch 8:</h2> In this sketch I have emphasized on the use of Hallucinogens like LSD growth and used the upward arrrow to indicate growth in use by college students.</p><br>
+   <p><h2>Visual 8:</h2> In this sketch I have emphasized on the use of Hallucinogens like LSD growth and used the upward arrrow to indicate growth in use by college students.</p><br>
    
    <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -121,7 +121,7 @@
    
    
    
-   <p><h2>Sketch 9:</h2> This sketch shows that the nicotine vapes have doubled in use over the years and I will use the vape pen in place of the bar to show the statistic.</p><br>
+   <p><h2>Visual 9:</h2> This sketch shows that the nicotine vapes have doubled in use over the years and I will use the vape pen in place of the bar to show the statistic.</p><br>
   <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -138,7 +138,7 @@
    
    
    
-   <p><h2>Sketch 10:</h2> The last sketch is for the suicide statistics. this simple trend line would be used to show the suicide rates. I would use a rope with a noose at the end to make the graph more impactful.</p><br>
+   <p><h2>Visual 10:</h2> The last sketch is for the suicide statistics. this simple trend line would be used to show the suicide rates. I would use a rope with a noose at the end to make the graph more impactful.</p><br>
    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
