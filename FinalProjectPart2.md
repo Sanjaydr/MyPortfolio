@@ -30,8 +30,8 @@
   <p> I have created 10 visualizations based off the sketches from<b><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > <i>Final Project Part 1 </i></a></b> to show the broad flow of my storyboard</p>
   
   
-   <h1 class="w3-jumbo"><span class="w3-hide-small">Starting with a Hook Question</span></h1>
-  <h1> <b><i> Are you Stressed, Anxious or Worried?</i></b></h1>
+   <h2 class="w3-jumbo"><span class="w3-hide-small">Starting with a Hook Question</span></h2>
+  <h3> <b><i> Are you Stressed, Anxious or Worried?</i></b></h3>
   
   
   <p><h2>Visual 1:</h2> In this visual I have used Canva to create an infographic stressing on the Anxiety doubling over time in students. My interviewee asked me to show both Anxiety and Doubled in same color to draw attention to doubling. I did that and the visual can be seen below.</p><br>
@@ -163,7 +163,7 @@
   <img src="https://sanjaydr.github.io/hello-world/23.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
   <img src="https://sanjaydr.github.io/hello-world/24.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
   
-<b><i>  <H1>   <a href ="https://www.cmu.edu/counseling/resources/index.html"> Click here to go to the Resurce Page </a> </H1></i> </b> 
+<b><i>  <H3>   <a href ="https://www.cmu.edu/counseling/resources/index.html"> Click here to go to the Resurce Page </a> </H3></i> </b> 
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Research Protocol</span></h2><br>
 <h3>The target audience you hope to reach with your story</h3><br>
