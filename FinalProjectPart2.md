@@ -30,7 +30,7 @@
   <p> I have created 10 visualizations based off the sketches from<b><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > <i>Final Project Part 1 </i></a></b> to show the broad flow of my storyboard</p>
   
   
-  <p><h2>Visual 1:</h2> This sketch is the starting point and draws attention by using large font size and vibrant colors to talk about the GROWTH in ANXIETY rates.</p><br>
+  <p><h2>Visual 1:</h2> In this visual I have used Canva to create an infographic stressing on the Anxiety doubling over time in students. My interviewee asked me to show both Anxiety and Doubled in same color to draw attention to doubling. I did that and the visual can be seen below.</p><br>
 <div style="position: relative; width: 100%; height: 0; padding-top: 16.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -41,7 +41,7 @@
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2Tg4eJY&#x2F;watch?utm_content=DAFN2Tg4eJY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Anxiety</a> by sanjay rajpal
   
   
-  <p><h2>Visual 2:</h2> The second sketch uses the human figures to show that 65.7 percent or 6.57 out of 10 students face harmful levels of anxiety and I have used red color to draw attention to the statistic.</p><br>
+  <p><h2>Visual 2:</h2> The second visual uses Canva again to create an infographic using the human figures to show that 65.7 percent or 6.57 out of 10 students face harmful levels of anxiety and I have used red color to draw attention to the statistic.</p><br>
    <div style="position: relative; width: 100%; height: 0; padding-top: 40.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -57,13 +57,13 @@
    
    
    
-   <p><h2>Visual 3:</h2> The next sketch adds on to the metal health by introducing Covid-19 as a factor adding to the stress and shows the impact of Covid -19 on stress levels.</p><br>
+   <p><h2>Visual 3:</h2> The next visual adds on to the metal health by introducing Covid-19 as a factor adding to the stress and shows the impact of Covid -19 on stress levels of college students.</p><br>
   <div class="flourish-embed flourish-chart" data-src="visualisation/11344247"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
   <br><br>
   
-   <p><h2>Visual 4:</h2> In this sketch I elaborate even further on the Mental stress level and show the levels as Low, Moderate and Severe in the form of a donut chart. I have used gradation Fron red to green to indicate the levels.</p><br>
+   <p><h2>Visual 4:</h2> In this visual I elaborate even further on the Mental stress level and show the levels as Low, Moderate and Severe in the form of a donut chart. I have used gradation Fron red to green to indicate the levels.</p><br>
   
   <div class="flourish-embed flourish-chart" data-src="visualisation/11344360"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
@@ -79,7 +79,7 @@
    
    
    
-   <p><h2>Visual 6:</h2> From this sketch I want to convey the depression statistics and I have used the big number in the middle to capture attention of the audience with the alarming number. I would use thsi to move into the adverse coping methods that college students turn to.</p><br>
+   <p><h2>Visual 6:</h2> From this visual I want to convey the depression statistics and I have used the big number in the middle to capture attention of the audience with the alarming number. I would use this to move into the adverse coping methods that college students turn to. I have used the graphic of a person resting on the number to show relation between the number and the depression of the pgraphic character.</p><br>
    
 <div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -94,7 +94,7 @@
    <br><br>
    
    
-   <p><h2>Visual 7:</h2>This sketch represents the coparsion of students consuming marijuana. i have used the leaf symbol to represent the percentage since that makes the data self explanatory. </p><br>
+   <p><h2>Visual 7:</h2>This visual represents the coparsion of students consuming marijuana. I have used the leaf symbol to represent the percentage since that makes the data self explanatory. I incorporated the peer feedback and used the size to represent the consumption instead of graph.</p><br>
  <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -106,7 +106,7 @@
    <br><br>
    
    
-   <p><h2>Visual 8:</h2> In this sketch I have emphasized on the use of Hallucinogens like LSD growth and used the upward arrrow to indicate growth in use by college students.</p><br>
+   <p><h2>Visual 8:</h2> In this visual I have emphasized on the use of Hallucinogens like LSD growth and used the upward arrrow to indicate growth in use by college students. I incorporated the peer feedback and used the size to represent the consumption instead of graph</p><br>
    
    <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -121,7 +121,7 @@
    
    
    
-   <p><h2>Visual 9:</h2> This sketch shows that the nicotine vapes have doubled in use over the years and I will use the vape pen in place of the bar to show the statistic.</p><br>
+   <p><h2>Visual 9:</h2> This visual shows that the nicotine vapes have doubled in use over the years and I used the vape pen to show the statistic using size as a factor of consumption over time. I incorporated the peer feedback and used the size to represent the consumption instead of graph</p><br>
   <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -138,7 +138,7 @@
    
    
    
-   <p><h2>Visual 10:</h2> The last sketch is for the suicide statistics. this simple trend line would be used to show the suicide rates. I would use a rope with a noose at the end to make the graph more impactful.</p><br>
+   <p><h2>Visual 10:</h2> The last visual is for the suicide statistics. This simple trend line in the form of a noose shows the suicide rates with th eline being the rope making the visual more impactful.I was a bit apprehensive about the visual being sensitive but the interviewees showed very positive reponse to the visual.</p><br>
    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -151,7 +151,18 @@
    
    <br><br>
   
-  After the sketches I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. <br><br><br>
+  After the sketches I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. Since my audience is CMU students, I have added the pictures from thre CMU website that I would be using to show the available resources. I have also added the link below whic I would embed in my Shorthand page as well. I am also in conversation with CMU CAPS to help me with resources on how each individual can take care of themselves and keep a check on themselves proactively. <br><br><br>
+  
+  
+   <img src="https://sanjaydr.github.io/hello-world/21.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   
+   
+   
+  <img src="https://sanjaydr.github.io/hello-world/22.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  <img src="https://sanjaydr.github.io/hello-world/23.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  <img src="https://sanjaydr.github.io/hello-world/24.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  
+  <H1>   <a href ="https://www.cmu.edu/counseling/resources/index.html" > <b> <i>Click here to go to the Resurce Page </b> </i> </a> </H1>
   
   
  
