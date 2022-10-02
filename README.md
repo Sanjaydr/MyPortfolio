@@ -63,6 +63,6 @@
     <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/Assignment3&4" > Assignment3 & 4 </a> </H1>
     <br>  
     
-     <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > Final Project Part 1 </a> </H1>
+     <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" target="_blank" > Final Project Part 1 </a> </H1>
      
      <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Final Project Part 2 </a> </H1>
