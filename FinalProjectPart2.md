@@ -49,7 +49,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2WAQ0Fo&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2WAQ0Fo&#x2F;watch?utm_content=DAFN2WAQ0Fo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Stress levels</a> by sanjay rajpal
+
    
    
    
@@ -88,7 +88,6 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2diUNL4&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2diUNL4&#x2F;view?utm_content=DAFN2diUNL4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Depression</a> by sanjay rajpal   
    
    
    <br><br>
@@ -102,7 +101,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2dT1E4M&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2dT1E4M&#x2F;view?utm_content=DAFN2dT1E4M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Weed</a> by sanjay rajpal
+
    <br><br>
    
    
@@ -115,7 +114,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2fkqHOc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2fkqHOc&#x2F;view?utm_content=DAFN2fkqHOc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">LSD</a> by sanjay rajpal
+
    
    <br><br>
    
@@ -129,8 +128,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2UfTdig&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2UfTdig&#x2F;view?utm_content=DAFN2UfTdig&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">vape</a> by sanjay rajpal
-  
+
   
   
   
@@ -146,8 +144,7 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2apSv-M&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2apSv-M&#x2F;view?utm_content=DAFN2apSv-M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Suicide rates</a> by sanjay rajpal
-   
+  
    
    <br><br>
   
