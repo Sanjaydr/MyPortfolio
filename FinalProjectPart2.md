@@ -151,13 +151,13 @@
   After the sketches I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. Since my audience is CMU students, I have added the pictures from thre CMU website that I would be using to show the available resources. I have also added the link below whic I would embed in my Shorthand page as well. I am also in conversation with CMU CAPS to help me with resources on how each individual can take care of themselves and keep a check on themselves proactively. <br><br><br>
   
   
-   <img src="https://sanjaydr.github.io/hello-world/21.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <img src="https://sanjaydr.github.io/hello-world/21.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
    
    
    
-  <img src="https://sanjaydr.github.io/hello-world/22.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-  <img src="https://sanjaydr.github.io/hello-world/23.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
-  <img src="https://sanjaydr.github.io/hello-world/24.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  <img src="https://sanjaydr.github.io/hello-world/22.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  <img src="https://sanjaydr.github.io/hello-world/23.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  <img src="https://sanjaydr.github.io/hello-world/24.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
   
   <H1>   <a href ="https://www.cmu.edu/counseling/resources/index.html" > <b> <i>Click here to go to the Resurce Page </b> </i> </a> </H1>
   
