@@ -30,7 +30,7 @@
   <p> I have created 10 visualizations based off the sketches from<b><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > <i>Final Project Part 1 </i></a></b> to show the broad flow of my storyboard</p>
   
   
-   <h2 class="w3-jumbo"><span class="w3-hide-small">Starting with a Hook Question</span></h2>
+   <h2 class="w3-jumbo">Starting with a Hook Question</h2>
   <h3> <b><i> Are you Stressed, Anxious or Worried?</i></b></h3>
   
   
