@@ -165,8 +165,20 @@
   
 <b><i>  <H1>   <a href ="https://www.cmu.edu/counseling/resources/index.html"> Click here to go to the Resurce Page </a> </H1></i> </b> 
   
-  
- 
+  <h2 class="w3-jumbo"><span class="w3-hide-small">Research Protocol</span></h2><br>
+<h3>The target audience you hope to reach with your story</h3><br>
+
+
+<h3>The approach to identifying representative individuals to interview</h3><br>
+
+
+<h3>The interview script</h3><br>
+
+
+<h3>The findings from your interviews</h3><br>
+
+
+<h3>Changes you plan on implementing to your visualizations next week to address the issues identified</h3><br>
  
  <br><br>
 
