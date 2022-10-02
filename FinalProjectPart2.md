@@ -20,14 +20,14 @@
   <h2 class="w3-jumbo"><span class="w3-hide-small">Summary</span></h2>
   <p> I feel that the topic of Mental health has gained a lot of traction recently but people fail to understand the importance of mental health in a student's life. At the same time, it's necessary to showcase the appalling statistics of the dire situation. The reason I picked this topic is to convey the on-ground numbers and raise awareness of the simple ways we as students can take care of ourselves and avoid becoming a part of the statistics. Using my storyboard I would like to make my fellow college students aware of the simple actions that can help someone in need.</p>
   
-  <h2 class="w3-jumbo"><span class="w3-hide-small">Structure</span></h2>
+  <h2 class="w3-jumbo"><span class="w3-hide-small">StoryBoard</span></h2>
  <p> I have created a list of statistics that would help create a story.
  <br>
   I would start with the statistics about stress in College students. I would then redirect to the Levels of stress as moderate, severe, and low. Then I would move to the effects of Mental health issues like Anxiety and Depression and show statistics that frankly shocked me. I would then move on to the statistics about college students taking up alcohol, nicotine vapes, and hallucinogens to cope with mental health issues. This would lay the foundation for the fact that people do commit suicide after they cannot cope with the mental stress, depression, and/or anxiety. I would do that by showing statistics of college student suicides and finally in the call for action section make a few resources available and also talk about simple steps and mindfulness practices that can help cope with stress and other mental health issues.</p>
 
  <h1 class="w3-jumbo"><span class="w3-hide-small">Initial Sketches</span></h1>
   
-  <p> I have created 10 sketches to show the broad flow of my storyboard</p>
+  <p> I have created 10 visualizations based off the sketches from<a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > Final Project Part 1 </a> to show the broad flow of my storyboard</p>
   
   
   <p><h2>Sketch 1:</h2> This sketch is the starting point and draws attention by using large font size and vibrant colors to talk about the GROWTH in ANXIETY rates.</p><br>
