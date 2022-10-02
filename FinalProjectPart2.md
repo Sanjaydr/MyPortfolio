@@ -61,14 +61,14 @@
    
    
    <p><h2>Sketch 3:</h2> The next sketch adds on to the metal health by introducing Covid-19 as a factor adding to the stress and shows the impact of Covid -19 on stress levels.</p><br>
-  
+  <div class="flourish-embed flourish-chart" data-src="visualisation/11344247"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
   <br><br>
   
    <p><h2>Sketch 4:</h2> In this sketch I elaborate even further on the Mental stress level and show the levels as Low, Moderate and Severe in the form of a donut chart. I have used gradation Fron red to green to indicate the levels.</p><br>
   
-  
+  <div class="flourish-embed flourish-chart" data-src="visualisation/11344360"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   <br><br>
    
@@ -76,7 +76,7 @@
    
    <p><h2>Sketch 5:</h2> This is a rough sketch for what would be a direct comparison between the time students spend on study outside of classes versus the time spent on entertainment every week in a typical work week. I have used red for Study time to show strss and green to show relaxation or break through entertainment.</p><br>
    
-   
+   <div class="flourish-embed flourish-chart" data-src="visualisation/11345449"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
    
    <br><br>
    
