@@ -30,6 +30,10 @@
   <p> I have created 10 visualizations based off the sketches from<b><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > <i>Final Project Part 1 </i></a></b> to show the broad flow of my storyboard</p>
   
   
+   <h1 class="w3-jumbo"><span class="w3-hide-small">Starting with a Hook Question</span></h1>
+  <h1> <b><i> Are you Stressed, Anxious or Worried?</i></b></h1>
+  
+  
   <p><h2>Visual 1:</h2> In this visual I have used Canva to create an infographic stressing on the Anxiety doubling over time in students. My interviewee asked me to show both Anxiety and Doubled in same color to draw attention to doubling. I did that and the visual can be seen below.</p><br>
 <div style="position: relative; width: 100%; height: 0; padding-top: 16.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -163,9 +167,7 @@
   
   
  
-  <h1 class="w3-jumbo"><span class="w3-hide-small">Starting with a Hook Question</span></h1>
-  <h1> <b><i> Are you Stressed, Anxious or Worried?</i></b></h1>
-  
+ 
  <br><br>
 
   <br><br>
