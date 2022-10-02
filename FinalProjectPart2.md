@@ -34,54 +34,128 @@
   
   
   <p><h2>Sketch 1:</h2> This sketch is the starting point and draws attention by using large font size and vibrant colors to talk about the GROWTH in ANXIETY rates.</p><br>
-<div style="position: relative; width: 100%; height: 0; padding-top: 77.2727%;
+<div style="position: relative; width: 100%; height: 0; padding-top: 16.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN0stfvdQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2Tg4eJY&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN0stfvdQ&#x2F;view?utm_content=DAFN0stfvdQ&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Final 1</a> by sanjay rajpal   
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2Tg4eJY&#x2F;watch?utm_content=DAFN2Tg4eJY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Anxiety</a> by sanjay rajpal
   
   
   <p><h2>Sketch 2:</h2> The second sketch uses the human figures to show that 65.7 percent or 6.57 out of 10 students face harmful levels of anxiety and I have used red color to draw attention to the statistic.</p><br>
-   <img src="https://sanjaydr.github.io/hello-world/2.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <div style="position: relative; width: 100%; height: 0; padding-top: 40.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2WAQ0Fo&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2WAQ0Fo&#x2F;watch?utm_content=DAFN2WAQ0Fo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Stress levels</a> by sanjay rajpal
+   
+   
+   
+   <br><br>
    
    
    
    <p><h2>Sketch 3:</h2> The next sketch adds on to the metal health by introducing Covid-19 as a factor adding to the stress and shows the impact of Covid -19 on stress levels.</p><br>
-   <img src="https://sanjaydr.github.io/hello-world/3.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  
+  
+  
+  <br><br>
   
    <p><h2>Sketch 4:</h2> In this sketch I elaborate even further on the Mental stress level and show the levels as Low, Moderate and Severe in the form of a donut chart. I have used gradation Fron red to green to indicate the levels.</p><br>
-   <img src="https://sanjaydr.github.io/hello-world/5.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  
+  
+  
+  <br><br>
    
    
    
    <p><h2>Sketch 5:</h2> This is a rough sketch for what would be a direct comparison between the time students spend on study outside of classes versus the time spent on entertainment every week in a typical work week. I have used red for Study time to show strss and green to show relaxation or break through entertainment.</p><br>
-   <img src="https://sanjaydr.github.io/hello-world/6.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   
+   
+   
+   <br><br>
    
    
    
    <p><h2>Sketch 6:</h2> From this sketch I want to convey the depression statistics and I have used the big number in the middle to capture attention of the audience with the alarming number. I would use thsi to move into the adverse coping methods that college students turn to.</p><br>
-   <img src="https://sanjaydr.github.io/hello-world/7.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   
+<div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2diUNL4&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2diUNL4&#x2F;view?utm_content=DAFN2diUNL4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Depression</a> by sanjay rajpal   
+   
+   
+   <br><br>
    
    
    <p><h2>Sketch 7:</h2>This sketch represents the coparsion of students consuming marijuana. i have used the leaf symbol to represent the percentage since that makes the data self explanatory. </p><br>
-   <img src="https://sanjaydr.github.io/hello-world/8.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2fkqHOc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2fkqHOc&#x2F;view?utm_content=DAFN2fkqHOc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">LSD</a> by sanjay rajpal
+   
+   
+   
+   <br><br>
    
    
    <p><h2>Sketch 8:</h2> In this sketch I have emphasized on the use of Hallucinogens like LSD growth and used the upward arrrow to indicate growth in use by college students.</p><br>
-   <img src="https://sanjaydr.github.io/hello-world/9.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   
+   <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2fkqHOc&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2fkqHOc&#x2F;view?utm_content=DAFN2fkqHOc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">LSD</a> by sanjay rajpal
+   
+   <br><br>
    
    
    
    <p><h2>Sketch 9:</h2> This sketch shows that the nicotine vapes have doubled in use over the years and I will use the vape pen in place of the bar to show the statistic.</p><br>
-   <img src="https://sanjaydr.github.io/hello-world/10.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+  <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2UfTdig&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2UfTdig&#x2F;view?utm_content=DAFN2UfTdig&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">vape</a> by sanjay rajpal
+  
+  
+  
+  
+  <br><br>
    
    
    
    <p><h2>Sketch 10:</h2> The last sketch is for the suicide statistics. this simple trend line would be used to show the suicide rates. I would use a rope with a noose at the end to make the graph more impactful.</p><br>
-   <img src="https://sanjaydr.github.io/hello-world/4.jpeg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
+   <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2apSv-M&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFN2apSv-M&#x2F;view?utm_content=DAFN2apSv-M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Suicide rates</a> by sanjay rajpal
+   
+   
+   <br><br>
   
   After the sketches I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. <br><br><br>
   
