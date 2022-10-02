@@ -156,22 +156,10 @@
   
  
   <h1 class="w3-jumbo"><span class="w3-hide-small">Starting with a Hook Question</span></h1>
-  <h1> <b><i> Are you Stressed, Anxious or Worried?</i></b>M/h1>
+  <h1> <b><i> Are you Stressed, Anxious or Worried?</i></b></h1>
   
  <br><br>
-  <h1 class="w3-jumbo"><span class="w3-hide-small">Feedback from peers in class</span></h1>
-  The feedback session in class was really helpful in understanding the small issues that I had overlooked and can change while implementing the final solution. The following points were provided as feedback on my sketches and flow - <br>
-  <h2> Pros </h2><br>
-  <ul><li>The flow looks good and helps with the narrative </li>
-  <li>The Infographics are great </li>
-  </ul>
-  <h2> Areas of Improvement </h2>
-  <ul>
-  <li>Be careful for the graphics especially fro sensitive situations/topics like suicide </li>
-  <li>For the infographics, use size to show change over time instead of plotting on graph</li>
-  <li>Use more colors not just red and green to account for the colorblind</li>
-  <li>Start with a Question as a Hook to the audience</li>
-  </ul>
+
   <br><br>
   
 <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Click here to <b> GO BACK </b> to home page </a> </H1>
