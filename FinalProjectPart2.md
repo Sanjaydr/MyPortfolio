@@ -152,7 +152,7 @@
    
    <br><br>
   
-  After the sketches I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. Since my audience is CMU students, I have added the pictures from thre CMU website that I would be using to show the available resources. I have also added the link below whic I would embed in my Shorthand page as well. I am also in conversation with CMU CAPS to help me with resources on how each individual can take care of themselves and keep a check on themselves proactively. I am still in conversation and I will have some update by next week and have those incorporated in the Shorthand storyboard. <br><br><br>
+  After the visuals I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. Since my audience is CMU students, I have added the pictures from thre CMU website that I would be using to show the available resources. I have also added the link below whic I would embed in my Shorthand page as well. I am also in conversation with CMU CAPS to help me with resources on how each individual can take care of themselves and keep a check on themselves proactively. I am still in conversation and I will have some update by next week and have those incorporated in the Shorthand storyboard. <br><br><br>
   
   
    <img src="https://sanjaydr.github.io/hello-world/21.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
@@ -166,13 +166,13 @@
 <b><i>  <H3>   <a href ="https://www.cmu.edu/counseling/resources/index.html"> Click here to go to the Resurce Page </a> </H3></i> </b> 
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Research Protocol</span></h2><br>
-<h3>The target audience you hope to reach with your story</h3><br>
+<h3><b><i>The target audience you hope to reach with your story</h3></i></b><br>
 Since my storyboard talks about student mental health status, the target audience that I would like to reach with my story board or college level students who are combating with this issue Day in Day out. Even though it’s a very common thing to have weak mental health, there is not much that the students are doing about it the storyboard would serve as an instrument to bring about that small change, which would help students to take some very small steps , but create massive impact on the mental health status.<br><br>
 
-<h3>The approach to identifying representative individuals to interview</h3><br>
+<h3><b><i>The approach to identifying representative individuals to interview</h3></i></b></h3><br>
 Since the story board is about college level students, anyone from Carnegie Mellon university would be a valid candidate. However, I would be recruiting individuals who have some background in data visualization since that would help me improve my visuals not only for the required audiences that is any student, but would also give me certain pointers that would help me improve my visualization in the best way possible. My aim is to pick at least one student who has some background data visualization and the other two could be any students from Carnegie Mellon University this way I would get to interact with the broader set of audience and get different perspectives on the same storyline.<br><br>
 
-<h3>The interview script</h3><br>
+<h3><b><i>The interview script</h3></i></b></h3><br>
 Hi! Thank You for your time. The agenda for today's interview is to get your honest feedback on the Visuals and Story flow. I would like you to see the visuals and try to interpret the visuals the best you can, and at the same time provide any feedback or critique that you could provide on all the visualizations. I would also like you to help me understand whether the flow of my story suits the visualizations or if I should make any amends to the flow to make it better. <br>
 I would like to first start by setting up the context for this story board. The intention of the storyboard is to talk about the deteriorating, mental health state of college students in the United States of America. It also showcases the effects on college students because of deteriorating mental health, and also by using various visual infographics, I have tried to bring to light things that I usually talked about, but do not have any action taken in order to combat them. I would be ending with a call for action section which would give us various resources to to combat the mental health issues we face in our daily lives. 
 I would then show each visual to the interviewee, and ask them the following questions for each of them .
@@ -219,7 +219,7 @@ Based on the above questions, I would identify changes if any, and use this feed
 
 
 
-<h3>Changes you plan on implementing to your visualizations next week to address the issues identified</h3><br>
+<h3><b><i>Changes you plan on implementing to your visualizations next week to address the issues identified</h3></i></b></h3><br>
  I have decided to consider all the five changes that I got as feedback from my interview is and would be incorporating all five in this part itself. I thought that these were very basic changes and would make a great impact on visuals created. Since these changes but also not very time consuming, I decided to go ahead and make the changes now itself so that later I could focus on the story board part of the project in shorthand, since I am not very well-versed with short hand, and would take some time to learn the platform.
  <br><br>
 
