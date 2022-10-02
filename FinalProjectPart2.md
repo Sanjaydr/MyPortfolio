@@ -159,7 +159,7 @@
   <img src="https://sanjaydr.github.io/hello-world/23.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
   <img src="https://sanjaydr.github.io/hello-world/24.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
   
-  <H1>   <a href ="https://www.cmu.edu/counseling/resources/index.html" > <b> <i>Click here to go to the Resurce Page </b> </i> </a> </H1>
+  <H1>   <a href ="https://www.cmu.edu/counseling/resources/index.html"> <b> <i>Click here to go to the Resurce Page </b> </i> </a> </H1>
   
   
  
