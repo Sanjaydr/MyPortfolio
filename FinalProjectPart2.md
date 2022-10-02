@@ -30,7 +30,7 @@
   <p> I have created 10 visualizations based off the sketches from<b><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > <i>Final Project Part 1 </i></a></b> to show the broad flow of my storyboard</p>
   
   
-   <h2 class="w3-jumbo">Starting with a Hook Question</h2>
+  <h2 class="w3-jumbo"><span class="w3-hide-small">Starting with a Hook Question</span></h2>
   <h3> <b><i> Are you Stressed, Anxious or Worried?</i></b></h3>
   
   
@@ -167,19 +167,60 @@
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Research Protocol</span></h2><br>
 <h3>The target audience you hope to reach with your story</h3><br>
-
+Since my storyboard talks about student mental health status, the target audience that I would like to reach with my story board or college level students who are combating with this issue Day in Day out. Even though it’s a very common thing to have weak mental health, there is not much that the students are doing about it the storyboard would serve as an instrument to bring about that small change, which would help students to take some very small steps , but create massive impact on the mental health status.<br><br>
 
 <h3>The approach to identifying representative individuals to interview</h3><br>
-
+Since the story board is about college level students, anyone from Carnegie Mellon university would be a valid candidate. However, I would be recruiting individuals who have some background in data visualization since that would help me improve my visuals not only for the required audiences that is any student, but would also give me certain pointers that would help me improve my visualization in the best way possible. My aim is to pick at least one student who has some background data visualization and the other two could be any students from Carnegie Mellon University this way I would get to interact with the broader set of audience and get different perspectives on the same storyline.<br><br>
 
 <h3>The interview script</h3><br>
-
-
+Hi! Thank You for your time. The agenda for today's interview is to get your honest feedback on the Visuals and Story flow. I would like you to see the visuals and try to interpret the visuals the best you can, and at the same time provide any feedback or critique that you could provide on all the visualizations. I would also like you to help me understand whether the flow of my story suits the visualizations or if I should make any amends to the flow to make it better. <br>
+I would like to first start by setting up the context for this story board. The intention of the storyboard is to talk about the deteriorating, mental health state of college students in the United States of America. It also showcases the effects on college students because of deteriorating mental health, and also by using various visual infographics, I have tried to bring to light things that I usually talked about, but do not have any action taken in order to combat them. I would be ending with a call for action section which would give us various resources to to combat the mental health issues we face in our daily lives. 
+I would then show each visual to the interviewee, and ask them the following questions for each of them .
+<br>
+<ol><li>What do you like about this visual?</li>
+  <li>What do you think can be improved about this visual?</li>
+    <li> What do you think is the purpose of this visual?</li>
+      <li>Do you think this is the appropriate position for the visual in the flow?</li>
+</ol>
+<br>
+Based on the above questions, I would identify changes if any, and use this feedback to incorporate the required changes in my final presentation.
+<br><br>
 <h3>The findings from your interviews</h3><br>
+<h2>Pros</h2>
+<ol><li>
+  The interviewees in general really like the topic, and could relate to the topic.</li>
+
+<li>
+    One interviewee thought that starting witha  question was a great idea and got him very interested as they related to the issue. </li>
+
+<li>I was really apprehensive about using the news in one of the charts showing statistics about suicide rates, but the interviewees responded really well to the charts and they thought that the use of the rope was a very clever way to make the visual more impactful.</li>
+
+<li> The infographics and use of Canva played out to my advantage, and made the overall storyline more impactful.</li></ol>
+
+
+<h2>Areas of Improvement </h2>
+<ol><li>
+<li>In the first visual, one of the interviewees thought that anxiety and Doubled should both be of the same color in order to draw attention to the relationship between anxiety getting doubled.</li>
+
+<li>The charts for missing sources and all of the individuals thought that stating sources was very important to give credibility to the charts.</li>
+
+<li>In most of my visuals I had used only red yellow and green colors so another common pointer was to use different colors.
+</li>
+<li>One of the interviewees thought that I should consider using colors in the titles to highlight the important parts just like I had done in the case of anxiety getting double in the first visual.</li>
+
+<li>Two of the interviewees thought that the vertical grid lines in visual five were distracting, and could be removed to make it more effective.</li>
+
+
+
+
+
+
+
+
 
 
 <h3>Changes you plan on implementing to your visualizations next week to address the issues identified</h3><br>
- 
+ I have decided to consider all the five changes that I got as feedback from my interview is and would be incorporating all five in this part itself. I thought that these were very basic changes and would make a great impact on visuals created. Since these changes but also not very time consuming, I decided to go ahead and make the changes now itself so that later I could focus on the story board part of the project in shorthand, since I am not very well-versed with short hand, and would take some time to learn the platform.
  <br><br>
 
   <br><br>
