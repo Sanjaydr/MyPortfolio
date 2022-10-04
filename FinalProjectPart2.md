@@ -216,7 +216,7 @@ Based on the above questions, I would identify changes if any, and use this feed
 <ol>
 <li>In the first visual, one of the interviewees thought that anxiety and Doubled should both be of the same color in order to draw attention to the relationship between anxiety getting doubled.</li>
 
-<li>The charts for missing sources and all of the individuals thought that stating sources was very important to give credibility to the charts.</li>
+<li>The charts were missing sources and all of the individuals thought that stating sources was very important to give credibility to the charts.</li>
 
 <li>In most of my visuals I had used only red yellow and green colors so another common pointer was to use different colors.
 </li>
@@ -228,13 +228,36 @@ Based on the above questions, I would identify changes if any, and use this feed
 
 
 
+<h2> 4. The findings from Peer Critique</h2><br>
+<h2>Pros</h2>
+<ol><li>
+  The flow of the information is smooth.</li>
+
+<li>
+   Adding the graphics with some animations was a nice way to have that impact needed. </li>
+
+<li>The way of representing Coping using Marijuana, Nicotine Vapes and Hallucinogens made it easy to understand what it represents.</li>
 
 
+
+
+<h2>Areas of Improvement </h2>
+<ol>
+<li>For the Pie Chart I could remove the color and grey out everything except for increase in stress to reduce color usage.</li>
+
+<li>For the donut chart I could keep the color except for the No/Low and grey out the section to ensure removal of redundant color.</li>
+
+<li>For the Last Chart again I had a devided group regarding use of noose and a point of sensitivity. I will think more on how to have the sam impact without creating controversy.</li>
 
 
 
 <h2>5. Changes you plan on implementing to your visualizations next week to address the issues identified</h2><br>
- I have decided to consider all the five changes that I got as feedback from my interview is and would be incorporating all five in this part itself. I thought that these were very basic changes and would make a great impact on visuals created. Since these changes but also not very time consuming, I decided to go ahead and make the changes now itself so that later I could focus on the story board part of the project in shorthand, since I am not very well-versed with short hand, and would take some time to learn the platform.
+ I have decided to consider all the five changes that I got as feedback from my interview is and would be incorporating all five in this part itself. I thought that these were very basic changes and would make a great impact on visuals created. Since these changes but also not very time consuming, I decided to go ahead and make most of the changes now  so that later I could focus on the story board part of the project in shorthand, since I am not very well-versed with short hand, and would take some time to learn the platform.
+  
+<br>
+  
+  For the feedback from peers also, i havde decided to use them and incorporate them in my final project. I rellay liked their perspective and I could see the difference in the feedback in terms of the nuances that my peers could pick up on because they understood how to further improve the visuals.
+  
  <br><br>
 
   <br><br>
