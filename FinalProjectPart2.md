@@ -247,9 +247,9 @@ Based on the above questions, I would identify changes if any, and use this feed
 
 <li>For the donut chart I could keep the color except for the No/Low and grey out the section to ensure removal of redundant color.</li>
 
-<li>For the Last Chart again I had a devided group regarding use of noose and a point of sensitivity. I will think more on how to have the sam impact without creating controversy.</li>
+<li>For the Last Chart again I had a divided group regarding use of noose and a point of sensitivity. I will think more on how to have the sam impact without creating controversy.</li>
 
-
+<li>The last feedbac I got was to reduce the different fonts used and use one commpn font to avoid distractions.</li></ol>
 
 <h2>5. Changes you plan on implementing to your visualizations next week to address the issues identified</h2><br>
  I have decided to consider all the five changes that I got as feedback from my interview is and would be incorporating all five in this part itself. I thought that these were very basic changes and would make a great impact on visuals created. Since these changes but also not very time consuming, I decided to go ahead and make most of the changes now  so that later I could focus on the story board part of the project in shorthand, since I am not very well-versed with short hand, and would take some time to learn the platform.
