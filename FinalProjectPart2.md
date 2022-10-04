@@ -256,7 +256,7 @@ Based on the above questions, I would identify changes if any, and use this feed
   
 <br>
   
-  For the feedback from peers also, i havde decided to use them and incorporate them in my final project. I rellay liked their perspective and I could see the difference in the feedback in terms of the nuances that my peers could pick up on because they understood how to further improve the visuals.
+  For the feedback from peers also, i have decided to use them and incorporate them in my final project. I rellay liked their perspective and I could see the difference in the feedback in terms of the nuances that my peers could pick up on because they understood how to further improve the visuals based on learning from class.
   
  <br><br>
 
