@@ -236,7 +236,7 @@ Based on the above questions, I would identify changes if any, and use this feed
    Adding the graphics with some animations was a nice way to have that impact needed. </li>
 
 <li>The way of representing Coping using Marijuana, Nicotine Vapes, and Hallucinogens made it easy to understand what it represents.</li>
-
+  </ol>
 
 
 
