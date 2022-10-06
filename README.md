@@ -51,9 +51,8 @@
 <br>
   </div>
   <div id ="Port">
-<h1> &#128202; Portfolio &#128201; </h1>
-  <h2><u> Assignments </u></h2> 
-  <h4>
+<h1> &#128202; Portfolio (Assignments) &#128201; </h1>
+ 
  <H1>   <a href ="https://sanjaydr.github.io/hello-world/Assignment1.xlsx" target ="_blank" >  Data visualization critique #1 </a> </H1>
  
     <br>  
