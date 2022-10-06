@@ -259,7 +259,7 @@ Based on the above questions, I would identify changes if any, and use this feed
   For the feedback from peers also, i have decided to use them and incorporate them in my final project. I rellay liked their perspective and I could see the difference in the feedback in terms of the nuances that my peers could pick up on because they understood how to further improve the visuals based on learning from class.
   
  <br><br>
-  <h2> <B>NOTE:</B> The Visuals and Infographics may be modified since they are embedded from source and may update based on changes made to the actual visual at source </h2>
+  <h2> <B>NOTE:</B> The Visuals and Infographics may be modified since they are embedded from the source and may update based on changes made to the actual visual at the source </h2>
   <br><br>
   
 <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Click here to <b> GO BACK </b> to home page </a> </H1>
