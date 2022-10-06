@@ -39,9 +39,9 @@
 
     <div id = "res">
       <H1> &#128220; Resume &#128220;</H1>
-      <img src="https://sanjaydr.github.io/hello-world/1.jpg" alt="design" class="w3-image" width="40%" height="40%">
+      <img src="https://sanjaydr.github.io/hello-world/1.jpg" alt="design" class="w3-image" width="50%" height="50%">
       <H1>   <a href ="https://sanjaydr.github.io/hello-world/Sanjay_Rajpal_Resume.pdf" target="_blank" > Click here to view my resume &#128229; </a> </H1>
-      <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <br>
     </div>
     <div id = "wh">
 <H1> &#129504; What I hope to Learn &#129504;</H1>
