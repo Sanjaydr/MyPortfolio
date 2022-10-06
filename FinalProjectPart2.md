@@ -34,7 +34,7 @@
   <h3> <b><i> Are you Stressed, Anxious or Worried?</i></b></h3>
   
   
-  <p><h2>Visual 1:</h2> In this visual I have used Canva to create an infographic stressing on the Anxiety doubling over time in students. My interviewee asked me to show both Anxiety and Doubled in same color to draw attention to doubling. I did that and the visual can be seen below.</p><br>
+  <p><h2>Visual 1:</h2> In this visual, I have used Canva to create an infographic stressing on Anxiety doubling over time in students. My interviewee asked me to show both Anxiety and Doubled in the same color to draw attention to doubling. I did that and the visual can be seen below. </p><br>
 <div style="position: relative; width: 100%; height: 0; padding-top: 16.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -61,13 +61,13 @@
    
    
    
-   <p><h2>Visual 3:</h2> The next visual adds on to the metal health by introducing Covid-19 as a factor adding to the stress and shows the impact of Covid -19 on stress levels of college students.</p><br>
+   <p><h2>Visual 3:</h2> The next visual add to mental health by introducing Covid-19 as a factor adding to the stress and shows the impact of Covid -19 on the stress levels of college students.</p><br>
   <div class="flourish-embed flourish-chart" data-src="visualisation/11344247"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
   
   <br><br>
   
-   <p><h2>Visual 4:</h2> In this visual I elaborate even further on the Mental stress level and show the levels as Low, Moderate and Severe in the form of a donut chart. I have used gradation Fron red to green to indicate the levels.</p><br>
+   <p><h2>Visual 4:</h2> In this visual, I elaborate even further on the Mental stress level and show the levels as Low, Moderate, and Severe in the form of a donut chart. I have used gradation Fron red to green to indicate the levels.</p><br>
   
   <div class="flourish-embed flourish-chart" data-src="visualisation/11344360"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   
@@ -75,7 +75,7 @@
    
    
    
-   <p><h2>Visual 5:</h2> This is a rough sketch for what would be a direct comparison between the time students spend on study outside of classes versus the time spent on entertainment every week in a typical work week. I have used red for Study time to show strss and green to show relaxation or break through entertainment.</p><br>
+   <p><h2>Visual 5:</h2> This is a visual showing a direct comparison between the time students spend on studying outside of classes versus the time spent on entertainment every week in a typical work week. I have used red for Study time to show stress and green to show relaxation or breakthrough entertainment.</p><br>
    
    <div class="flourish-embed flourish-chart" data-src="visualisation/11345449"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
    
@@ -83,7 +83,7 @@
    
    
    
-   <p><h2>Visual 6:</h2> From this visual I want to convey the depression statistics and I have used the big number in the middle to capture attention of the audience with the alarming number. I would use this to move into the adverse coping methods that college students turn to. I have used the graphic of a person resting on the number to show relation between the number and the depression of the pgraphic character.</p><br>
+   <p><h2>Visual 6:</h2> From this visual, I want to convey the depression statistics and I have used the big number in the middle to capture the attention of the audience with the alarming number. I would use this to move into the adverse coping methods that college students turn to. I have used the graphic of a person resting on the number to show the relation between the number and the depression of the graphic character.</p><br>
    
 <div style="position: relative; width: 100%; height: 0; padding-top: 50.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -97,7 +97,7 @@
    <br><br>
    
    
-   <p><h2>Visual 7:</h2>This visual represents the coparsion of students consuming marijuana. I have used the leaf symbol to represent the percentage since that makes the data self explanatory. I incorporated the peer feedback and used the size to represent the consumption instead of graph.</p><br>
+   <p><h2>Visual 7:</h2>This visual represents the comparison of students consuming marijuana. I have used the leaf symbol to represent the percentage since that makes the data self-explanatory. I incorporated the peer feedback and used the size to represent the consumption instead of a graph.</p><br>
  <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -109,7 +109,7 @@
    <br><br>
    
    
-   <p><h2>Visual 8:</h2> In this visual I have emphasized on the use of Hallucinogens like LSD growth and used the upward arrrow to indicate growth in use by college students. I incorporated the peer feedback and used the size to represent the consumption instead of graph</p><br>
+   <p><h2>Visual 8:</h2> In this visual, I have emphasized the use of Hallucinogens like LSD growth and used the upward arrow to indicate growth in use by college students. I incorporated the peer feedback and used the size to represent the consumption instead of a graph.</p><br>
    
    <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -124,7 +124,7 @@
    
    
    
-   <p><h2>Visual 9:</h2> This visual shows that the nicotine vapes have doubled in use over the years and I used the vape pen to show the statistic using size as a factor of consumption over time. I incorporated the peer feedback and used the size to represent the consumption instead of graph</p><br>
+   <p><h2>Visual 9:</h2> This visual shows that nicotine vapes have doubled in use over the years and I used the vape pen to show the statistic using size as a factor of consumption over time. I incorporated the peer feedback and used the size to represent the consumption instead of the graph.</p><br>
   <div style="position: relative; width: 100%; height: 0; padding-top: 66.6667%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -140,7 +140,7 @@
    
    
    
-   <p><h2>Visual 10:</h2> The last visual is for the suicide statistics. This simple trend line in the form of a noose shows the suicide rates with th eline being the rope making the visual more impactful.I was a bit apprehensive about the visual being sensitive but the interviewees showed very positive reponse to the visual.</p><br>
+   <p><h2>Visual 10:</h2> The last visual is for the suicide statistics. This simple trend line in the form of a noose shows the suicide rates with the line being the rope making the visual more impactful. I was a bit apprehensive about the visual being sensitive but the interviewees showed a very positive response to the visual.</p><br>
    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -152,7 +152,7 @@
    
    <br><br>
   
-  After the visuals I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. Since my audience is CMU students, I have added the pictures from thre CMU website that I would be using to show the available resources. I have also added the link below whic I would embed in my Shorthand page as well. I am also in conversation with CMU CAPS to help me with resources on how each individual can take care of themselves and keep a check on themselves proactively. I am still in conversation and I will have some update by next week and have those incorporated in the Shorthand storyboard. <br><br><br>
+  After the visuals, I would add a section on Call for action with all the resources along with helpline numbers and a few small steps every individual can take to proactively keep mental health in check. Since my audience is CMU students, I have added pictures from the CMU website that I would be used to show the available resources. I have also added the link below which I would embed in my Shorthand page as well. I am also in conversation with CMU CAPS to help me with resources on how each individual can take care of themselves and keep a check on themselves proactively. I am still in conversation and I will have some updates by next week and have those incorporated into the Shorthand storyboard. <br><br><br>
   
   
    <img src="https://sanjaydr.github.io/hello-world/21.jpg" alt="boy" class="w3-image" width="100%" height="100%"><br><br>
@@ -166,12 +166,11 @@
 <b><i>  <H3>   <a href ="https://www.cmu.edu/counseling/resources/index.html"> Click here to go to the Resurce Page </a> </H3></i> </b> 
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Research Protocol</span></h2><br>
-<h2>1. The target audience you hope to reach with your story</h2><br>
-Since my storyboard talks about student mental health status, the target audience that I would like to reach with my story board or college level students who are combating with this issue Day in Day out. Even though it’s a very common thing to have weak mental health, there is not much that the students are doing about it the storyboard would serve as an instrument to bring about that small change, which would help students to take some very small steps , but create massive impact on the mental health status.<br><br>
+<h2>1. TSince my storyboard talks about student mental health status, the target audience that I would like to reach with my storyboard or college level students who are combating this issue day in and day out. Even though it’s a very common thing to have weak mental health, there is not much that the students are doing about it the storyboard would serve as an instrument to bring about that small change, which would help students to take some very small steps, but create a massive impact on the mental health status.<br><br>
 
 
 <h2>2. The approach to identifying representative individuals to interview</h2><br>
-Since the story board is about college level students, anyone from Carnegie Mellon university would be a valid candidate. However, I would be recruiting individuals who have some background in data visualization since that would help me improve my visuals not only for the required audiences that is any student, but would also give me certain pointers that would help me improve my visualization in the best way possible. My aim is to pick at least one student who has some background data visualization and the other two could be any students from Carnegie Mellon University this way I would get to interact with the broader set of audience and get different perspectives on the same storyline.<br><br>
+Since the storyboard is about college-level students, anyone from Carnegie Mellon university would be a valid candidate. However, I would be recruiting individuals who have some background in data visualization since that would help me improve my visuals not only for the required audience which is any student but would also give me certain pointers that would help me improve my visualization in the best way possible. My aim is to pick at least one student who has some background data visualization and the other two could be any students from Carnegie Mellon University this way I would get to interact with the broader set of audience and get different perspectives on the same storyline.<br><br>
 
 
 
@@ -180,8 +179,8 @@ Since the story board is about college level students, anyone from Carnegie Mell
 
 <h2>3. The interview script</h2><br>
 Hi! Thank You for your time. The agenda for today's interview is to get your honest feedback on the Visuals and Story flow. I would like you to see the visuals and try to interpret the visuals the best you can, and at the same time provide any feedback or critique that you could provide on all the visualizations. I would also like you to help me understand whether the flow of my story suits the visualizations or if I should make any amends to the flow to make it better. <br>
-I would like to first start by setting up the context for this story board. The intention of the storyboard is to talk about the deteriorating, mental health state of college students in the United States of America. It also showcases the effects on college students because of deteriorating mental health, and also by using various visual infographics, I have tried to bring to light things that I usually talked about, but do not have any action taken in order to combat them. I would be ending with a call for action section which would give us various resources to to combat the mental health issues we face in our daily lives. 
-I would then show each visual to the interviewee, and ask them the following questions for each of them .
+I would like to first start by setting up the context for this storyboard. The storyboard intends to talk about the deteriorating, mental health state of college students in the United States of America. It also showcases the effects on college students because of deteriorating mental health, and also by using various visual infographics, I have tried to bring to light things that I usually talked about, but do not have any action taken to combat them. I would be ending with a call for action section which would give us various resources to combat the mental health issues we face in our daily lives. 
+I would then show each visual to the interviewee, and ask them the following questions for each of them.
 <br>
 <ol><li>What do you like about this visual?</li>
   <li>What do you think can be improved about this visual?</li>
@@ -205,16 +204,16 @@ Based on the above questions, I would identify changes if any, and use this feed
   The interviewees in general really like the topic, and could relate to the topic.</li>
 
 <li>
-    One interviewee thought that starting witha  question was a great idea and got him very interested as they related to the issue. </li>
+    One interviewee thought that starting with a question was a great idea and got him very interested as they related to the issue. </li>
 
 <li>I was really apprehensive about using the news in one of the charts showing statistics about suicide rates, but the interviewees responded really well to the charts and they thought that the use of the rope was a very clever way to make the visual more impactful.</li>
 
-<li> The infographics and use of Canva played out to my advantage, and made the overall storyline more impactful.</li></ol>
+<li> The infographics and use of Canva played out to my advantage and made the overall storyline more impactful.</li></ol>
 
 
 <h2>Areas of Improvement </h2>
 <ol>
-<li>In the first visual, one of the interviewees thought that anxiety and Doubled should both be of the same color in order to draw attention to the relationship between anxiety getting doubled.</li>
+<li>In the first visual, one of the interviewees thought that anxiety and Doubled should both be of the same color to draw attention to the relationship between anxiety getting doubled.</li>
 
 <li>The charts were missing sources and all of the individuals thought that stating sources was very important to give credibility to the charts.</li>
 
@@ -236,20 +235,20 @@ Based on the above questions, I would identify changes if any, and use this feed
 <li>
    Adding the graphics with some animations was a nice way to have that impact needed. </li>
 
-<li>The way of representing Coping using Marijuana, Nicotine Vapes and Hallucinogens made it easy to understand what it represents.</li>
+<li>The way of representing Coping using Marijuana, Nicotine Vapes, and Hallucinogens made it easy to understand what it represents.</li>
 
 
 
 
 <h2>Areas of Improvement </h2>
 <ol>
-<li>For the Pie Chart I could remove the color and grey out everything except for increase in stress to reduce color usage.</li>
+<li>For the Pie Chart I could remove the color and grey out everything except for an increase in stress to reduce color usage.</li>
 
-<li>For the donut chart I could keep the color except for the No/Low and grey out the section to ensure removal of redundant color.</li>
+<li>For the donut chart I could keep the color except for the No/Low and grey out the section to ensure the removal of redundant color.</li>
 
-<li>For the Last Chart again I had a divided group regarding use of noose and a point of sensitivity. I will think more on how to have the sam impact without creating controversy.</li>
+<li>For the Last Chart again I had a divided group regarding the use of a noose and a point of sensitivity. I will think more about how to have the same impact without creating controversy.</li>
 
-<li>The last feedbac I got was to reduce the different fonts used and use one commpn font to avoid distractions.</li></ol>
+<li>The last feedback I got was to reduce the different fonts used and use one common font to avoid distractions.</li></ol>
 
 <h2>5. Changes you plan on implementing to your visualizations next week to address the issues identified</h2><br>
  I have decided to consider all the five changes that I got as feedback from my interview is and would be incorporating all five in this part itself. I thought that these were very basic changes and would make a great impact on visuals created. Since these changes but also not very time consuming, I decided to go ahead and make most of the changes now  so that later I could focus on the story board part of the project in shorthand, since I am not very well-versed with short hand, and would take some time to learn the platform.
