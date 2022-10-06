@@ -53,16 +53,16 @@
   <div id ="Port">
 <h1> &#128202; Portfolio (Assignments) &#128201; </h1>
  
- <H1>   <a href ="https://sanjaydr.github.io/hello-world/Assignment1.xlsx" target ="_blank" >  Data visualization critique #1 </a> </H1>
+ <H2>   <a href ="https://sanjaydr.github.io/hello-world/Assignment1.xlsx" target ="_blank" >  Data visualization critique #1 </a>
  
     <br>  
     
-   <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/DataVizualizationWeek2" > Visualizing government debt </a> </H1>
+  <a href ="https://sanjaydr.github.io/MyPortfolio/DataVizualizationWeek2" > Visualizing government debt </a> 
     <br>  
-    <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/Assignment3&4" > Assignment3 & 4 </a> </H1>
+    <a href ="https://sanjaydr.github.io/MyPortfolio/Assignment3&4" > Assignment3 & 4 </a> 
     <br>  
     
-     <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" target="_blank" > Final Project Part 1 </a> </H1>
+     <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" target="_blank" > Final Project Part 1 </a> 
      <br>  
-     <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Final Project Part 2 </a> </H1>
+      <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Final Project Part 2 </a> </H2>
 <br>  <br>  
