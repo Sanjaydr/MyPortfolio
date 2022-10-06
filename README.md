@@ -65,6 +65,6 @@
    <H2>    <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" target="_blank" > Final Project Part 1 </a>  </H2> 
      <br>   <br>  
      <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Final Project Part 2 </a> </H2>
-<br>  <br>   <br>  
+<br>  <br>   <br>   <br>   <br>   <br>  
   </div>
    <br>   <br>   <br>   <br>   <br>   <br>  
