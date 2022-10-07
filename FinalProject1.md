@@ -63,7 +63,7 @@ I have used the most recent data available to make the statistics and visualizat
   <h2> Link to the data </h2>
 <h3>  <a href ="https://timely.md/college-students-more-concerned-about-covid-19-than-ever/" > Timely MD Data </a> <br><br>
   <a href ="https://www.acha.org/documents/ncha/NCHA-III_SPRING_2022_GRAD_PROFESSIONAL_REFERENCE_GROUP_EXECUTIVE_SUMMARY.pdf" > Link to the Executive Summary of  American College Health Association (ACHA) survery </a><br><br>
-   <a href =" https://www.acha.org/documents/ncha/NCHA-III_SPRING_2022_GRAD_PROFESSIONAL_REFERENCE_GROUP_DATA_REPORT.pdf" > Link to the results of  American College Health Association (ACHA) survery </a><br><br>
+   <a href ="https://www.acha.org/documents/ncha/NCHA-III_SPRING_2022_GRAD_PROFESSIONAL_REFERENCE_GROUP_DATA_REPORT.pdf" > Link to the results of  American College Health Association (ACHA) survery </a><br><br>
   
   <a href ="https://afsp.org/suicide-statistics/" > Link to the suicide statistics for all age groups  </a><br><br>
   
