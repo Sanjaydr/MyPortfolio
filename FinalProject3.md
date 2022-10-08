@@ -15,10 +15,9 @@
  
   </header>
    <h1 class="w3-jumbo"><span class="w3-hide-small">Shorthand Link</span></h1>
-  <script src="https://carnegiemellon.shorthandstories.com/colleges-have-a-distressing-mental-health-crisis/embed.js"></script>
+ <a href="https://carnegiemellon.shorthandstories.com/colleges-have-a-distressing-mental-health-crisis/index.html"> Click here to view Shorthand presentation</a>
   
-  <h1 class="w3-jumbo"><span class="w3-hide-small">Outline</span></h1>
-  <p> For my final project, I had an idea to pick something that was close to me and something that everyone in the room could relate to. hence I picked the topic of the Mental Health crisis faced by College Students in the United States of America. As a college student, I have faced a lot of Stress and Mental Health issues personally due</p> to the immense pressure of the coursework and facing deadlines and the job search as well. </p>
+
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Summary of my process</span></h2>
  <p> For the final part of my project, the most essential component that I understood, based on the comments that I received on the previous two parts, was that I should connect with mental health service providers like CMU CaPS, and get an opinion on the entire story to ensure that the right verbiage and content was used to deliver the story more effectively. <br>
