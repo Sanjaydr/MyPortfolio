@@ -14,8 +14,8 @@
     <h1 class="w3-jumbo"><span class="w3-hide-small">Final Project Part 3: Mental Health Crisis</span></h1>
  
   </header>
-   
-  
+   <h1 class="w3-jumbo"><span class="w3-hide-small">Shorthand Link</span></h1>
+  <script src="https://carnegiemellon.shorthandstories.com/colleges-have-a-distressing-mental-health-crisis/embed.js"></script>
   <h1 class="w3-jumbo"><span class="w3-hide-small">Outline</span></h1>
   <p> For my final project, I had an idea to pick something that was close to me and something that everyone in the room could relate to. hence I picked the topic of the Mental Health crisis faced by College Students in the United States of America. As a college student, I have faced a lot of Stress and Mental Health issues personally due to the immense pressure of the coursework and facing deadlines and the job search as well. </p>
   
