@@ -57,6 +57,7 @@
 <h3><a href ="https://sanjaydr.github.io/MyPortfolio/Assignment3&4" > Assignment3 & 4</a></h3>
 <h3><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" target="_blank" > Final Project Part 1 </a></h3>
 <h3><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Final Project Part 2 </a> </h3>
+<h3><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart3" > Final Project Part 3 </a> </h3>
 <br>
     <br>
     <br>
