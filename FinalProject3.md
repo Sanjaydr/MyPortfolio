@@ -16,11 +16,14 @@
   </header>
    <h1 class="w3-jumbo"><span class="w3-hide-small">Shorthand Link</span></h1>
   <script src="https://carnegiemellon.shorthandstories.com/colleges-have-a-distressing-mental-health-crisis/embed.js"></script>
-  <h1 class="w3-jumbo"><span class="w3-hide-small">Outline</span></h1>
-  <p> For my final project, I had an idea to pick something that was close to me and something that everyone in the room could relate to. hence I picked the topic of the Mental Health crisis faced by College Students in the United States of America. As a college student, I have faced a lot of Stress and Mental Health issues personally due to the immense pressure of the coursework and facing deadlines and the job search as well. </p>
   
-  <h2 class="w3-jumbo"><span class="w3-hide-small">Summary</span></h2>
-  <p> I feel that the topic of Mental health has gained a lot of traction recently but people fail to understand the importance of mental health in a student's life. At the same time, it's necessary to showcase the appalling statistics of the dire situation. The reason I picked this topic is to convey the on-ground numbers and raise awareness of the simple ways we as students can take care of ourselves and avoid becoming a part of the statistics. Using my storyboard I would like to make my fellow college students aware of the simple actions that can help someone in need.</p>
+  <h1 class="w3-jumbo"><span class="w3-hide-small">Outline</span></h1>
+  <p> For my final project, I had an idea to pick something that was close to me and something that everyone in the room could relate to. hence I picked the topic of the Mental Health crisis faced by College Students in the United States of America. As a college student, I have faced a lot of Stress and Mental Health issues personally due</p> to the immense pressure of the coursework and facing deadlines and the job search as well. </p>
+  
+  <h2 class="w3-jumbo"><span class="w3-hide-small">Summary of my process</span></h2>
+ <p> For the final part of my project, the most essential component that I understood, based on the comments that I received on the previous two parts, was that I should connect with mental health service providers like CMU CaPS, and get an opinion on the entire story to ensure that the right verbiage and content was used to deliver the story more effectively. <br>
+The second most important component of the third part of my project was to ensure that the story flow was smooth that each element's position was the right one for that particular element and that it fits perfectly into the storyline that I had envisioned. <br>
+Lastly, I also want to ensure that the message of deteriorating mental health among college students is delivered with empathy. I tried my level best to be mindful when selecting the different images that supported my storyline and the transition slides for the section headers.</p>
   
   <h2 class="w3-jumbo"><span class="w3-hide-small">Structure</span></h2>
  <p> I have created a list of statistics that would help create a story.
