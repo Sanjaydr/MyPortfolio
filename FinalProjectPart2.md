@@ -260,6 +260,6 @@ Based on the above questions, I would identify changes if any, and use this feed
   <h2> <B>NOTE:</B> The Visuals and Infographics may be modified since they are embedded from the source and may update based on changes made to the actual visual at the source </h2>
   <br><br>
    <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > <-- Click here to <b> GO BACK </b> to Part 1 </a> </H2> <br><br>
-   <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject3" > <-- Click here to <b> Go Forward </b> to Part 3 </a> </H2> <br><br>
+   <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject3" >Click here to <b> Go Forward </b> to Part 3 --></a> </H2> <br><br>
 <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Click here to <b> GO BACK </b> to home page </a> </H1>
 <!-- END PAGE CONTENT -->
