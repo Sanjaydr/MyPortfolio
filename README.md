@@ -54,7 +54,7 @@
 <h1> &#128202; Portfolio (Assignments) &#128201; </h1>
 <h3><a href ="https://sanjaydr.github.io/hello-world/Assignment1.xlsx" target ="_blank" >  Data visualization critique #1 </a></h3>
 <h3><a href ="https://sanjaydr.github.io/MyPortfolio/DataVizualizationWeek2" > Visualizing government debt </a> </h3>
-<h3><a href ="https://sanjaydr.github.io/MyPortfolio/Assignment3&4" > Assignment3 & 4</a></h3>
+<h3><a href ="https://sanjaydr.github.io/MyPortfolio/Assignment3&4" > Assignment 3 & 4</a></h3>
 <h3><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" target="_blank" > Final Project Part 1 </a></h3>
 <h3><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Final Project Part 2 </a> </h3>
 <h3><a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject3" > Final Project Part 3 </a> </h3>
