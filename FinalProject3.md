@@ -23,7 +23,7 @@
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Summary of my process</span></h1>
   
-      <h2 class="w3-jumbo"><span class="w3-hide-small">The Progress I made through different Steps</span></h2>
+      <h3 class="w3-jumbo"><span class="w3-hide-small">The Progress I made through different Steps</span></h2>
  <H3>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > Click here to <b> Go to Part 1 </b></a> </H3> 
    <H3>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Click here to <b> Go to Part 2 </b></a> </H3>
  <p> For the final part of my project, the most essential component that I understood, based on the comments that I received on the previous two parts, was that I should connect with mental health service providers like CMU CaPS, and get an opinion on the entire story to ensure that the right verbiage and content was used to deliver the story more effectively. <br><br>
