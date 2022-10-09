@@ -62,9 +62,9 @@ To make my sketch more appealing I used different colors for each county. I labe
   
    <br>
    <br>
-   <br>
-   <br>
  
+    <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/DataVizualizationWeek2" > <-- Click here to <b> GO BACK </b> to Assignment 2 </a> </H2> <br><br>
+   <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" >Click here to <b> Go Forward </b> to Final Project Part 1 --></a> </H2> <br><br>
 <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Click here to <b> GO BACK </b> to home page </a> </H1>
 <!-- END PAGE CONTENT -->
 
