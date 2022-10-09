@@ -90,6 +90,6 @@ I will also consider creating a short version on shorthand for the 1-minute pres
   <li>Start with a Question as a Hook to the audience</li>
   </ul>
   <br><br>
-  
+  <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" >  Click here to <b> Go Forward</b> to Part 2 --> </a> </H2> <br><br> 
 <H1>   <a href ="https://sanjaydr.github.io/MyPortfolio/" > Click here to <b> GO BACK </b> to home page </a> </H1>
 <!-- END PAGE CONTENT -->
