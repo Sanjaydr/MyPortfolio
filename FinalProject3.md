@@ -19,11 +19,13 @@
  <a href="https://carnegiemellon.shorthandstories.com/colleges-have-a-distressing-mental-health-crisis/index.html"><img src="https://sanjaydr.github.io/hello-world/Shorthand.jpg" alt="design" class="w3-image" width="50%" height="50%"><br> Click here to view Shorthand presentation</a>
   
   
-    <h1 class="w3-jumbo"><span class="w3-hide-small">The Progress I made through different Steps</span></h1>
- <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > Click here to <b> Go to Part 2 </b></a> </H2> <br><br>
-   <H2>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Click here to <b> Go to Part 2 </b></a> </H2> <br><br>
+
   
   <h1 class="w3-jumbo"><span class="w3-hide-small">Summary of my process</span></h1>
+  
+      <h2 class="w3-jumbo"><span class="w3-hide-small">The Progress I made through different Steps</span></h2>
+ <H3>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProject1" > Click here to <b> Go to Part 2 </b></a> </H3> 
+   <H3>   <a href ="https://sanjaydr.github.io/MyPortfolio/FinalProjectPart2" > Click here to <b> Go to Part 2 </b></a> </H3>
  <p> For the final part of my project, the most essential component that I understood, based on the comments that I received on the previous two parts, was that I should connect with mental health service providers like CMU CaPS, and get an opinion on the entire story to ensure that the right verbiage and content was used to deliver the story more effectively. <br><br>
 The second most important component of the third part of my project was to ensure that the story flow was smooth that each element's position was the right one for that particular element and that it fits perfectly into the storyline that I had envisioned. <br><br>
 Lastly, I also want to ensure that the message of deteriorating mental health among college students is delivered with empathy. I tried my level best to be mindful when selecting the different images that supported my storyline and the transition slides for the section headers.<br></p>
