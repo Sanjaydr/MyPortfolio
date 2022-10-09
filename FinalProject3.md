@@ -15,7 +15,8 @@
  
   </header>
    <h1 class="w3-jumbo"><span class="w3-hide-small">Shorthand Link</span></h1>
- <a href="https://carnegiemellon.shorthandstories.com/colleges-have-a-distressing-mental-health-crisis/index.html"> Click here to view Shorthand presentation</a>
+  <img src="https://sanjaydr.github.io/hello-world/Shorthand.jpg" alt="design" class="w3-image" width="50%" height="50%">
+ <a href="https://carnegiemellon.shorthandstories.com/colleges-have-a-distressing-mental-health-crisis/index.html"><img src="https://sanjaydr.github.io/hello-world/Shorthand.jpg" alt="design" class="w3-image" width="50%" height="50%"><br> Click here to view Shorthand presentation</a>
   
 
   
